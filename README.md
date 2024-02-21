@@ -35,24 +35,5 @@
   <!-- Add more images as needed -->
 </div>
 
-<!-- The Modal/Lightbox -->
-<div id="myModal" class="modal">
-  <span class="close cursor" onclick="closeModal()">&times;</span>
-  <div class="modal-content">
-    <div class="mySlides">
-      <img src="image1.jpg" style="width:100%">
-    </div>
-    <div class="mySlides">
-      <img src="image2.jpg" style="width:100%">
-    </div>
-    <div class="mySlides">
-      <img src="image3.jpg" style="width:100%">
-    </div>
-    <!-- Add more slides as needed -->
-    <!-- Next and previous buttons -->
-    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-    <a class="next" onclick="plusSlides(1)">&#10095;</a>
-  </div>
-</div>
 
 
