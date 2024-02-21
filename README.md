@@ -29,10 +29,7 @@
 <h1>My Educations & Certifications</h1>
 
 <div id="gallery">
-  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KR6SFABAHQ2L/CERTIFICATE_LANDING_PAGE~KR6SFABAHQ2L.jpeg">
-  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DSZN3PM39MAS/CERTIFICATE_LANDING_PAGE~DSZN3PM39MAS.jpeg">
-  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~68CHUPTFLNNA/CERTIFICATE_LANDING_PAGE~68CHUPTFLNNA.jpeg">
-  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FQCNLXW8ZCZM/CERTIFICATE_LANDING_PAGE~FQCNLXW8ZCZM.jpeg">
+  
 </div>
 
 
