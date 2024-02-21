@@ -32,7 +32,7 @@
   <img src="https://images.credly.com/size/340x340/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png" alt="Image 1" onclick="openModal();currentSlide(1)" class="hover-shadow">
   <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Image 2" onclick="openModal();currentSlide(2)" class="hover-shadow">
   <img src="https://images.credly.com/size/340x340/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png" alt="Image 3" onclick="openModal();currentSlide(3)" class="hover-shadow">
-  <!-- Add more images as needed -->
+  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FQCNLXW8ZCZM/CERTIFICATE_LANDING_PAGE~FQCNLXW8ZCZM.jpeg">
 </div>
 
 
