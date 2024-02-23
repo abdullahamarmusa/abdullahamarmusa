@@ -1,7 +1,7 @@
 # ![favicon-32x32](https://github.com/abdullahamarmusa/abdullahamarmusa/assets/105099811/6217e2b4-e398-490d-b990-bd04b4d1ab8d) About Me:
 
 👋Hi! I'm Abdullah Amar Musa, a passionate Front End Web Developer with a strong interest in Javascript. I'm always eager to learn and collaborate, and I'm excited to connect with others.<br><br>
-<b>Skills:</b> Python, JavaScript, React, Git, SQL<br><br><b>Projects:</b><br>* Developed over 8 Website using HTML, CSS, Javascript for Personal and Professional Projects.<br>* Contributed to a few Projects for Gaining Experience.<br><br>I'm actively involved in open-source projects like website front end interactive feature and welcome pull requests and contributions.<br>Recently attended  and enjoyed the sessions on ..<br>In my free time, I enjoy Learning new and solving complex problem.<br><br>Feel free to reach out to me via email at abdullahamarmusa@gmail.com or connect with me on LinkedIn: www.linkedin.com/in/abdullahamarmusa/. I'm always open to collaborating on interesting projects or just having a chat about tech!
+<b>Skills:</b> Python, JavaScript, React, Git, SQL<br><br><b>Projects:</b><br>* Developed over 8 Website using HTML, CSS, Javascript for Personal and Professional Projects.<br>* Contributed to a few Projects for Gaining Experience.<br><br>I'm actively involved in open-source projects like website front end interactive feature and welcome pull requests and contributions.<br>Recently attended  and enjoyed the sessions on ..<br>In my free time, I enjoy Learning new and solving complex problem.<br><br>Feel free to connect with me on LinkedIn: www.linkedin.com/in/abdullahamarmusa/. I'm always open to collaborating on interesting projects or just having a chat about tech!
 
 
 # 🌐 Social Sites:
