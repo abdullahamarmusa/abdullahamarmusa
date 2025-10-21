@@ -75,7 +75,6 @@ Showcase your impact with these examples—**replace them with your actual proje
 ## 🕒 Recent Coding Activity
 
 Showing my commitment and current language usage over the last month.
-*(Note: Remember to make your WakaTime profile and stats **public** for this card to appear!)*
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahamarmusa&layout=compact&hide_border=true&theme=dracula&langs_count=5&title_color=08BD80&icon_color=08BD80" alt="WakaTime coding activity" />
