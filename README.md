@@ -1,38 +1,118 @@
-# ![favicon-32x32](https://github.com/abdullahamarmusa/abdullahamarmusa/assets/105099811/6217e2b4-e398-490d-b990-bd04b4d1ab8d) About Me:
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08BD80&random=false&width=450&lines=Full-Stack+Web+Developer;Building+Modern+Web+Solutions;JavaScript+and+React+Expert" alt="Typing SVG"/>
+</div>
 
-👋Hi! I'm Abdullah Amar Musa, a passionate Front End Web Developer with a strong interest in Javascript. I'm always eager to learn and collaborate, and I'm excited to connect with others.<br><br>
-<b>Skills:</b> Python, JavaScript, React, Git, SQL<br><br><b>Projects:</b><br>* Developed over 8 Website using HTML, CSS, Javascript for Personal and Professional Projects.<br>* Contributed to a few Projects for Gaining Experience.<br><br>I'm actively involved in open-source projects like website front end interactive feature and welcome pull requests and contributions.<br>Recently attended  and enjoyed the sessions on ..<br>In my free time, I enjoy Learning new and solving complex problem.<br><br>Feel free to connect with me on LinkedIn: www.linkedin.com/in/abdullahamarmusa/. I'm always open to collaborating on interesting projects or just having a chat about tech!
+# 👨‍💻 Abdullah Amar Musa
 
-
-# 🌐 Social Sites:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdullahamarmusa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullahamarmusa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahamarmusa) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abdullahamarmusa) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/abdullahamarmusa) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/abdullahamarmusa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/abdullahamarmusa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdulahamarmusa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abdullahamarmusa) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/abdullahamarmusa) 
-
-# 💻 Tech Stacks:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=abdullahamarmusa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdullahamarmusa&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamarmusa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=onestar&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### **Full-Stack Web Development | Modern JavaScript Ecosystem | Open Source**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abdullahamarmusa&icon=4&color=0)](https://visitcount.itsvg.in)
 
+## 🔥 Profile Views
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=08BD80&style=for-the-badge" alt="Profile views"/>
+</div>
+
+---
+
+## 🚀 Professional Overview
+
+I'm a dedicated and results-driven **Full-Stack Web Developer** committed to building robust, high-performance, and visually appealing applications. My expertise spans the entire development lifecycle, from scalable server architecture to intuitive front-end design.
+
+* **Core Focus:** Developing with **React** for dynamic UIs and **Node.js/Express** for efficient backend APIs.
+* **Experience:** Proven ability to deliver projects using the **PERN/MERN** stacks and legacy systems (JQuery, SQL).
+* **Collaboration:** I actively seek opportunities for **open-source contributions** and am always open to collaborative projects.
+* **Connect:** Let's discuss tech or future projects on **[LinkedIn](https://linkedin.com/in/abdullahamarmusa/)**.
+
+---
+
+## 💻 Tech Stack and Tools
+My professional toolbox is categorized below, demonstrating comprehensive full-stack capability:
+
+### **Primary Stack (MERN/PERN Focus)**
+| Layer | Technologies | Descriptions |
+| :--- | :--- | :--- |
+| **Frontend** | **React, JavaScript** | Modern, component-based user interfaces. |
+| **Styling** | **HTML5, CSS3, Bootstrap** | Responsive design and solid foundational markup. |
+| **Backend** | **Node.js, Express** | Building fast, scalable, and non-blocking APIs. |
+| **Databases**| **PostgreSQL, SQL** | Relational data management for stability and querying. |
+
+<br>
+
+### **🛠️ Full Tooling Showcase**
+
+Visual badges provide a quick look at my extended skill set.
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
+| **Frameworks/Libs** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) |
+| **Styling/Design** | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) |
+
+---
+
+## 📂 Featured Projects & Achievements
+A brief look at my work, demonstrating practical application of my skills. *(**Pro Tip:** Replace the bullet points below with actual project names and GitHub links for the best look!)*
+
+* **Scalable Full-Stack Solutions:** Designed and implemented multiple complete web applications using the MERN/PERN stack, focusing on performance optimization.
+* **Front-End Development:** Successfully developed over **8 distinct front-end focused websites**, emphasizing responsive design, accessibility, and interactive features using modern JavaScript.
+* **Open-Source Contributions:** Actively engaged in contributing front-end features and bug fixes to various **open-source projects**.
+
+---
+
+## 📊 GitHub Activity & Performance
+Consistent visual theming and border removal for a cleaner, professional embed look.
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullahamarmusa&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=08BD80&icon_color=08BD80" alt="GitHub Stats" height="170px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahamarmusa&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=D2452D" alt="GitHub Streak" height="170px"/>
+</div>
+<br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamarmusa&theme=dracula&hide_border=true&layout=compact&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="Top Languages"/>
+</div>
+
+---
+
+## 🏆 Connect & Extras
+
+<h2 align="center">🏆 Connect & Extras</h2>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <h3>Connect Here</h3>
+      <a href="https://linkedin.com/in/abdullahamarmusa/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+      </a>
+      <br>
+      <a href="link_to_your_portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-282c34?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+      </a>
+      <br>
+      <a href="https://stackoverflow.com/users/abdullahamarmusa">
+        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3>Dev Insight</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&max-width=300" alt="Random Dev Quote" style="margin-bottom: 10px;"/>
+      <br>
+      <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+    </td>
+    <td width="33%" align="center">
+      <h3>Top Repos</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=onedark&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### **Personal Channels**
+*(These are separated to keep the primary focus on professional development.)*
+
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdulahamarmusa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdullahamarmusa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullahamarmusa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abdullahamarmusa) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/abdullahamarmusa)
