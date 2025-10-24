@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/stars/abdullahamarmusa/Dragable---Touchable-Slider?style=social" alt="GitHub Repo Stars"/>
 </div>
 
-<p>_____________________________________________</p>
+<p>__________________________________________</p>
 
 
 <h3>🎯Core Focus</h3> 
@@ -112,11 +112,6 @@ Showing my commitment and current language usage over the last month.
 <div align="left">
     <h3>Top Contributed Repos</h3>
     <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=transparent&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/>
-</div>
-<!-- Snake Game Repo View -->
-
-<div align="left">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🌐 Connect With Me
