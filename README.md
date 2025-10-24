@@ -9,13 +9,14 @@
 
 ### A concise TL;DR: I build production-ready web applications using **React, Node.js, and PostgreSQL**, with an emphasis on performance, clean architecture, and testing.
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/github/followers/abdullahamarmusa?style=social" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=brightgreen" alt="GitHub Profile Views"/>
-  <img src="https://img.shields.io/github/stars/abdullahamarmusa/YOUR-REPO?style=social" alt="GitHub Repo Stars"/>
+  <img src="https://img.shields.io/github/stars/abdullahamarmusa/Dragable---Touchable-Slider?style=social" alt="GitHub Repo Stars"/>
 </div>
 
----
+<p>_____________________________________________</p>
+
 
 <h3>🎯Core Focus</h3> 
 
@@ -83,65 +84,41 @@ Showcase your impact with these examples—**replace them with your actual proje
 
 Showing my commitment and current language usage over the last month.
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahamarmusa&layout=compact&hide_border=false&theme=transparent&langs_count=5&title_color=08BD80&icon_color=08BD80" alt="WakaTime coding activity" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamarmusa&theme=transparent&hide_border=false&layout=compact&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="Top Languages"/>
 </div>
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&column=8&theme=transparent&margin-w=15&margin-h=15&no_frame=false" alt="abdullahamarmusa" />
 </p>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 style="display: flex; align-items: center; justify-content: center;">
+<h2 style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGphdjY4YXQ3bHF4NnFsb240bjY4dm80cWQ1NDFrczAybjIxazVtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="margin-right: 10px;">
   GitHub Activity & Performance
-</h3>
+</h2>
   
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=abdullahamarmusa&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=08BD80&icon_color=08BD80" alt="GitHub Stats" height="170px"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahamarmusa&theme=transparent&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=D2452D" alt="GitHub Streak" height="170px"/>
 </div>
 <br>
 
-<div align="center">
+<div align="left">
     <h3>Top Contributed Repos</h3>
     <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=transparent&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/>
 </div>
+<!-- Snake Game Repo View -->
 
-<h2> 🌐 Connect With Me</h2>
+<div align="left">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/abdullahamarmusa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" style="vertical-align: middle;"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/abdulahamarmusa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter" style="vertical-align: middle;"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/abdullahamarmusa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" style="vertical-align: middle;"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/abdullahamarmusa" target="_blank">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=facebook" width="45" alt="Facebook" style="vertical-align: middle;"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" width="45" alt="Discord" style="vertical-align: middle;"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/abdullahamarmusa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" style="vertical-align: middle;"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:abdullahamarmusa.dev@gmail.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=gmail" alt="Email" style="vertical-align: middle;"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/abdullahamarmusa" target="_blank"> <img src="https://skillicons.dev/icons?i=devto" width="45" alt="Dev.to" style="vertical-align: middle;"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" alt="Stack Overflow" style="vertical-align: middle;"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/abdullahamarmusa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codepen" width="45" alt="CodePen" style="vertical-align: middle;"/>
-  </a>
-</p>
+## 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
