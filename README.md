@@ -3,7 +3,9 @@
 </div>
 <br>
 
-# 👨‍💻 Abdullah Amar Musa
+# 👨‍💻 Abdullah Amar Musa 
+<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="200" /></p>
+
 
 ### A concise TL;DR: I build production-ready web applications using **React, Node.js, and PostgreSQL**, with an emphasis on performance, clean architecture, and testing.
 
@@ -13,7 +15,9 @@
   <img src="https://img.shields.io/github/stars/abdullahamarmusa/YOUR-REPO?style=social" alt="GitHub Repo Stars"/>
 </div>
 
-## 🎯 Core Focus
+---
+
+<h3>🎯Core Focus</h3> 
 
 My expertise lies in building and maintaining high-performance web applications. I am passionate about:
 
@@ -22,7 +26,7 @@ My expertise lies in building and maintaining high-performance web applications.
 * **DevOps & Deployment:** Implementing containerization and CI/CD pipelines using **Docker, Kubernetes, and Git**.
 * **Code Quality:** Writing clean, testable, and maintainable code by following industry best practices.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🛠️ Tech Stack and Tools
 
@@ -31,7 +35,7 @@ My professional toolbox is categorized below, demonstrating comprehensive full-s
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,nodejs,express,mongodb,postgresql,jest,docker,git,github,bash,npm,vscode,jquery&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,nodejs,express,mongodb,postgresql,postman,docker,git,github,bash,npm,vscode,jquery&perline=10" />
   </a>
 </p>
 <br>
@@ -91,6 +95,7 @@ Showing my commitment and current language usage over the last month.
 </p>
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGphdjY4YXQ3bHF4NnFsb240bjY4dm80cWQ1NDFrczAybjIxazVtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="margin-right: 10px;">
@@ -107,3 +112,36 @@ Showing my commitment and current language usage over the last month.
     <h3>Top Contributed Repos</h3>
     <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=transparent&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/>
 </div>
+
+<h2> 🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdullahamarmusa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" style="vertical-align: middle;"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/abdulahamarmusa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter" style="vertical-align: middle;"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/abdullahamarmusa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" style="vertical-align: middle;"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/abdullahamarmusa" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=facebook" width="45" alt="Facebook" style="vertical-align: middle;"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" width="45" alt="Discord" style="vertical-align: middle;"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/abdullahamarmusa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" style="vertical-align: middle;"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:abdullahamarmusa.dev@gmail.com">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=gmail" alt="Email" style="vertical-align: middle;"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/abdullahamarmusa" target="_blank"> <img src="https://skillicons.dev/icons?i=devto" width="45" alt="Dev.to" style="vertical-align: middle;"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" alt="Stack Overflow" style="vertical-align: middle;"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codepen.io/abdullahamarmusa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codepen" width="45" alt="CodePen" style="vertical-align: middle;"/>
+  </a>
+</p>
