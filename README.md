@@ -79,22 +79,17 @@ Showcase your impact with these examples—**replace them with your actual proje
 </details>
 
 ---
-
 ## 🕒 Recent Coding Activity
 
 Showing my commitment and current language usage over the last month.
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahamarmusa&layout=compact&hide_border=false&theme=transparent&langs_count=5&title_color=08BD80&icon_color=08BD80" alt="WakaTime coding activity" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamarmusa&theme=transparent&hide_border=false&layout=compact&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="Top Languages"/>
-</div>
+<div align="left"> <table border="0" cellpadding="0" cellspacing="0" style="border: none;"> <tr style="border: none;"> <td valign="top" style="border: none; padding: 5px;"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahamarmusa&hide_border=true&theme=transparent&langs_count=5&title_color=08BD80&icon_color=08BD80" alt="WakaTime coding activity" /> </td> <td valign="top" style="border: none; padding: 5px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamarmusa&theme=transparent&hide_border=true&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="Top Languages"/> </td> </tr> </table> </div>
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&column=8&theme=transparent&margin-w=15&margin-h=15&no_frame=false" alt="abdullahamarmusa" />
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&theme=minimal" alt="GitHub Activity Graph"/>
 </p>
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
