@@ -88,7 +88,7 @@ Showing my commitment and current language usage over the last month.
 <br>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&bg_color=00000000&color=0E0045&line=58A6FF&point=58A6FF&area_color=58A6FF&title_color=08BD80&area=true&hide_border=true&title=Abdullah+Amar+Musa%27s+Contribution+Graph" alt="Abdullah Amar Musa's Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&color=0E0045&line=58A6FF&point=58A6FF&area_color=58A6FF&title_color=08BD80&area=true&hide_border=true&title=Abdullah+Amar+Musa%27s+Contribution+Graph" alt="Abdullah Amar Musa's Contribution Graph"/>
 </p>
 <br>
 
@@ -98,8 +98,8 @@ Showing my commitment and current language usage over the last month.
 </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahamarmusa&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=08BD80&icon_color=58A6FF&text_color=417E87&ring_color=58A6FF" alt="GitHub Stats" height="170px"/>
-  <img src="https://streak-stats.demolab.com/?user=abdullahamarmusa&theme=transparent&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=58A6FF&ring=58A6FF&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=0E0045&sideLabels=0E0045&title_color=417E87&dates=0E0045" alt="GitHub Streak" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahamarmusa&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=08BD80&icon_color=58A6FF&text_color=417E87&ring_color=58A6FF" alt="GitHub Stats" height="170px"/>
+  <img src="https://streak-stats.demolab.com/?user=abdullahamarmusa&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=58A6FF&ring=58A6FF&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=0E0045&sideLabels=0E0045&title_color=417E87&dates=0E0045" alt="GitHub Streak" height="170px"/>
 </div>
 <br>
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
