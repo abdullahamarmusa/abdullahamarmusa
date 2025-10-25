@@ -28,7 +28,7 @@ My expertise lies in building and maintaining high-performance web applications.
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 
-### 🛠️ Tech Stack and Tools 💻
+### 💻 Tech Stack and Tools 🛠️
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **My professional toolbox is categorized below, demonstrating comprehensive full-stack capability:**
@@ -108,7 +108,7 @@ Showcase your impact with these examples—**replace them with your actual proje
   </picture>
 </div>
 <br>
-<h3 style="display: flex; align-items: center; justify-content: center;">
+<h3>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGphdjY4YXQ3bHF4NnFsb240bjY4dm80cWQ1NDFrczAybjIxazVtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align: middle; margin-right: 10px;">
   GitHub Activity & Performance 👌</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
