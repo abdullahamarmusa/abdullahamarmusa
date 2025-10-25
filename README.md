@@ -1,24 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Code+Next&size=32&width=550&color=08BD80&vCenter=true&pause=1000&random=false&lines=Full-Stack+Web+Developer;Building+Modern+Web+Solutions;JavaScript+|+React+Specialist" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Code+Next&size=32&width=550&color=58A6FF&vCenter=true&pause=1000&random=false&lines=Full-Stack+Web+Developer;Building+Modern+Web+Solutions;JavaScript+|+React+Specialist" alt="Typing SVG"/>
 </div>
 <br>
 
-# 👨‍💻 Abdullah Amar Musa 
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="200" /></p>
+# 👨‍💻 Abdullah Amar Musa
+<p align="center">
+  <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="150" />
+</p>
 
-
-### A concise TL;DR: I build production-ready web applications using **React, Node.js, and PostgreSQL**, with an emphasis on performance, clean architecture, and testing.
+### A concise TL;DR: I build production-ready web applications using **React, Node.js, and <br>PostgreSQL**, with an emphasis on performance, clean architecture, and testing.
 
 <div align="left">
-  <img src="https://img.shields.io/github/followers/abdullahamarmusa?style=social" alt="GitHub Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=brightgreen" alt="GitHub Profile Views"/>
-  <img src="https://img.shields.io/github/stars/abdullahamarmusa/Dragable---Touchable-Slider?style=social" alt="GitHub Repo Stars"/>
+  <img src="https://img.shields.io/github/followers/abdullahamarmusa?style=social" alt="GitHub Followers"/>&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=58A6FF&style=flat-square" alt="GitHub Profile Views"/>&nbsp;&nbsp; <img src="https://img.shields.io/github/stars/abdullahamarmusa/Dragable---Touchable-Slider?style=social" alt="GitHub Repo Stars"/>
 </div>
 
-<p>__________________________________________</p>
-
-
-<h3>🎯Core Focus</h3> 
+## 🎯 Core Focus 
 
 My expertise lies in building and maintaining high-performance web applications. I am passionate about:
 
@@ -27,7 +24,7 @@ My expertise lies in building and maintaining high-performance web applications.
 * **DevOps & Deployment:** Implementing containerization and CI/CD pipelines using **Docker, Kubernetes, and Git**.
 * **Code Quality:** Writing clean, testable, and maintainable code by following industry best practices.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 
 ## 🛠️ Tech Stack and Tools
 
@@ -78,36 +75,37 @@ Showcase your impact with these examples—**replace them with your actual proje
   </ul>
 </details>
 
----
+
+
 ## 🕒 Recent Coding Activity
 
+
 Showing my commitment and current language usage over the last month.
-
-<div align="left"> <table border="0" cellpadding="0" cellspacing="0" style="border: none;"> <tr style="border: none;"> <td valign="top" style="border: none; padding: 5px;"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahamarmusa&hide_border=true&theme=transparent&langs_count=5&title_color=08BD80&icon_color=08BD80" alt="WakaTime coding activity" /> </td> <td valign="top" style="border: none; padding: 5px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamarmusa&theme=transparent&hide_border=true&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="Top Languages"/> </td> </tr> </table> </div>
-
+<div align="left">
+  <img valign="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahamarmusa&layout=default&hide_border=false&theme=transparent&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="WakaTime coding activity" />
+  <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamarmusa&theme=transparent&hide_border=false&layout=donut-vertical&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="Top Languages"/>
+</div>
 <br>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&theme=minimal" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&bg_color=00000000&color=0E0045&line=58A6FF&point=58A6FF&area_color=58A6FF&title_color=08BD80&area=true&hide_border=true&title=Abdullah+Amar+Musa%27s+Contribution+Graph" alt="Abdullah Amar Musa's Contribution Graph"/>
 </p>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2 style="display: flex; align-items: center; justify-content: center;">
+<h3 style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGphdjY4YXQ3bHF4NnFsb240bjY4dm80cWQ1NDFrczAybjIxazVtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="margin-right: 10px;">
   GitHub Activity & Performance
-</h2>
-  
+</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdullahamarmusa&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=08BD80&icon_color=08BD80" alt="GitHub Stats" height="170px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahamarmusa&theme=transparent&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=D2452D" alt="GitHub Streak" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahamarmusa&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=08BD80&icon_color=58A6FF&text_color=417E87&ring_color=58A6FF" alt="GitHub Stats" height="170px"/>
+  <img src="https://streak-stats.demolab.com/?user=abdullahamarmusa&theme=transparent&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=58A6FF&ring=58A6FF&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=0E0045&sideLabels=0E0045&title_color=417E87&dates=0E0045" alt="GitHub Streak" height="170px"/>
 </div>
 <br>
-
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 <div align="left">
     <h3>Top Contributed Repos</h3>
-    <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=transparent&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/>
-</div>
+    <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/> </div>
 
 ## 🌐 Connect With Me
 
