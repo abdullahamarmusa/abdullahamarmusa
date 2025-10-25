@@ -113,8 +113,7 @@ Showcase your impact with these examples—**replace them with your actual proje
 &nbsp; GitHub Activity & Performance 👌</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahamarmusa&hide_border=false&include_all_commits=true&count_private=true&theme=default&show_icons=true&title_color=08BD80&icon_color=58A6FF&text_color=417E87&ring_color=58A6FF&cache_bust=2" alt="GitHub Stats" height="170px"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=abdullahamarmusa&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=ff5a00&theme=default&ring=FFA500&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=08BD80&sideLabels=417E87&title_color=08BD80&dates=58A6FF" alt="GitHub Streak" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahamarmusa&hide_border=false&include_all_commits=true&count_private=true&theme=default&show_icons=true&title_color=08BD80&icon_color=58A6FF&text_color=417E87&ring_color=58A6FF&cache_bust=2" alt="GitHub Stats" height="170px"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com/?user=abdullahamarmusa&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=ff5a00&theme=default&ring=FFA500&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=08BD80&sideLabels=417E87&title_color=08BD80&dates=58A6FF" alt="GitHub Streak" height="170px"/>
 </div>
 <br>
 <div align="left">
