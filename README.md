@@ -123,10 +123,75 @@ Showcase your impact with these examples—**replace them with your actual proje
   </tr>
 </table>
 <br>
-<div align="left">
-    <h3>🏆 Top Contributed Repos ⭐</h3>
-    <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=6&theme=default&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/> 
-</div>
+
+<table>
+  <tr>
+    <td valign="top" style="width: 40%;">
+      <div align="left">
+        <h3>🏆 Top Contributed Repos ⭐</h3>
+        <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=6&theme=default&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos">
+      </div>
+    </td>  
+    <td valign="top" style="width: 60%; padding-left: 40px;">
+      <div align="left">
+        <h3>🔗 Useful Resources</h3>  
+        <details>
+          <summary>🚀 <b>Web Development and other resources needed.</b></summary>
+          <ul>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">MDN Web Docs</a></li>
+            <li><a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
+            <li><a href="https://css-tricks.com/" target="_blank">CSS-Tricks</a></li>
+            <li><a href="https://javascript.info/" target="_blank">JavaScript.info</a></li>
+          </ul>
+        </details>
+        <details>
+          <summary>🧠 <b>Learning Platforms</b></summary>
+          <ul>
+            <li><a href="https://www.udemy.com/" target="_blank">Udemy</a></li>
+            <li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
+            <li><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></li>
+          </ul>
+        </details>
+        <details>
+          <summary>🛠️ <b>Developer Tools</b></summary>
+          <ul>
+            <li><a href="https://code.visualstudio.com/" target="_blank">VS Code</a></li>
+            <li><a href="https://git-scm.com/" target="_blank">Git</a></li>
+            <li><a href="https://vercel.com/" target="_blank">Vercel</a></li>
+            <li><a href="https://netlify.com/" target="_blank">Netlify</a></li>
+          </ul>
+        </details>
+        <details>
+          <summary>🎨 <b>Design Inspiration</b></summary>
+          <ul>
+            <li><a href="https://dribbble.com/" target="_blank">Dribbble</a></li>
+            <li><a href="https://www.behance.net/" target="_blank">Behance</a></li>
+            <li><a href="https://uimovement.com/" target="_blank">UI Movement</a></li>
+          </ul>
+        </details>
+        <details>
+          <summary>📚 <b>Documentation & References</b></summary>
+          <ul>
+            <li><a href="https://devdocs.io/" target="_blank">DevDocs</a></li>
+            <li><a href="https://docs.github.com/" target="_blank">GitHub Docs</a></li>
+            <li><a href="https://www.w3.org/TR/html52/" target="_blank">W3C HTML Specs</a></li>
+            <li><a href="https://api.github.com/" target="_blank">GitHub API</a></li>
+          </ul>
+        </details>
+        <details>
+          <summary>🧩 <b>Frontend Frameworks</b></summary>
+          <ul>
+            <li><a href="https://react.dev/" target="_blank">React</a></li>
+            <li><a href="https://nextjs.org/" target="_blank">Next.js</a></li>
+            <li><a href="https://vuejs.org/" target="_blank">Vue.js</a></li>
+            <li><a href="https://svelte.dev/" target="_blank">Svelte</a></li>
+          </ul>
+        </details>
+      </div>
+    </td>
+  </tr>
+</table>
+
 <h3> 🌐 Connect With Me ⁙</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
