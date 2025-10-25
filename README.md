@@ -36,7 +36,7 @@ My professional toolbox is categorized below, demonstrating comprehensive full-s
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,figma,nodejs,express,mongodb,postgresql,powershell,postman,docker,git,github,bash,npm,vscode,jquery,prisma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,figma,nodejs,express,mongodb,postgresql,powershell,postman,docker,git,github,bash,npm,vscode,jquery,prisma,nextjs&perline=12" />
   </a>
 </p>
 <br>
