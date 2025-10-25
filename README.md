@@ -116,7 +116,7 @@ Showcase your impact with these examples—**replace them with your actual proje
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=abdullahamarmusa&hide_border=true&include_all_commits=true&count_private=true&theme=default&show_icons=true&title_color=08BD80&icon_color=58A6FF&text_color=417E87&ring_color=58A6FF" alt="GitHub Stats" height="170px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=abdullahamarmusa&hide_border=true&include_all_commits=true&count_private=true&theme=default&show_icons=true&title_color=08BD80&icon_color=58A6FF&text_color=417E87&ring_color=58A6FF" alt="GitHub Stats" height="170px"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
       <img src="https://streak-stats.demolab.com/?user=abdullahamarmusa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff5a00&theme=default&ring=FFA500&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=08BD80&sideLabels=417E87&title_color=08BD80&dates=58A6FF" alt="GitHub Streak" height="170px"/>
