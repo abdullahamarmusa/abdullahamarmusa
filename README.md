@@ -91,7 +91,7 @@ Showing my commitment and current language usage over the last month.
 
 <br>
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&column=8&theme=transparent&margin-w=15&margin-h=15&no_frame=false" alt="abdullahamarmusa" />
 </p>
 
