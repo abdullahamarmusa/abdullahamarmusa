@@ -6,7 +6,7 @@
   <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="60" style="margin-right: 10px; vertical-align: top;" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=00F5FF,00D4AA&width=450&height=45&lines=Abdullah+Amar+Musa&duration=10&pause=10000000" alt="Abdullah Amar Musa" style="vertical-align: top;" />
 </h1>
-<img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="91" height="91" />
+<img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="92" height="92" />
 
 ## I specialize in building production-ready web applications with **React, Node.js, and PostgreSQL**, prioritizing high performance, scalable architecture, and comprehensive testing. 👇
 <div align="left">
