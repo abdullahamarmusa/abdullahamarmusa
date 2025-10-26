@@ -136,19 +136,23 @@ Showcase your impact with these examples—**replace them with your actual proje
     <td valign="top" style="width: 50%; ">      
             <h3>🧩 Useful Resources 🧩</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-      <!-- <div align="left" style="border: 1px solid #d0d7de; border-radius: 6px;"> -->
- <!-- <div style="border-bottom: 1px solid #d0d7de;"> -->
           <details>
-            <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🚀 Web Development and other resources needed.</summary>
-            <ul style="font-size: 14px;">
-              <li><a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">MDN Web Docs</a></li>
-              <li><a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
-              <li><a href="https://css-tricks.com/" target="_blank">CSS-Tricks</a></li>
-              <li><a href="https://javascript.info/" target="_blank">JavaScript.info</a></li>
+            <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🧠 Learning Platforms</summary>
+           <ul style="font-size: 14px;">
+              <li><a href="https://www.udemy.com/" target="_blank">Udemy</a></li>
+              <li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
+              <li><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></li>
             </ul>
           </details>
         </div>
-        <!-- <div style="border-bottom: 1px solid #d0d7de;"> -->
+  <details>
+    <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🧠 Learning Platforms</summary>
+           <ul style="font-size: 14px;">
+              <li><a href="https://www.udemy.com/" target="_blank">Udemy</a></li>
+              <li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
+              <li><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></li>
+            </ul>
+          </details>
           <details>
             <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🧠 Learning Platforms</summary>
             <ul style="font-size: 14px;">
@@ -158,18 +162,6 @@ Showcase your impact with these examples—**replace them with your actual proje
             </ul>
           </details>
         </div>
-        <!-- <div style="border-bottom: 1px solid #d0d7de;"> -->
-          <details>
-            <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🚀 Web Development and other resources needed.</summary>
-            <ul style="font-size: 14px;">
-              <li><a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">MDN Web Docs</a></li>
-              <li><a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
-              <li><a href="https://css-tricks.com/" target="_blank">CSS-Tricks</a></li>
-              <li><a href="https://javascript.info/" target="_blank">JavaScript.info</a></li>
-            </ul>
-          </details>
-        </div>
-        <!-- <div style="border-bottom: 1px solid #d0d7de;"> -->
           <details>
             <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🧠 Learning Platforms</summary>
            <ul style="font-size: 14px;">
@@ -179,7 +171,7 @@ Showcase your impact with these examples—**replace them with your actual proje
             </ul>
           </details>
         </div>   
-        </div>
+       </div>
     </td>
   </tr>
 </table>
