@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=58A6FF&style=flat-square" alt="GitHub Profile Views"/>&nbsp;&nbsp; <img src="https://img.shields.io/github/stars/abdullahamarmusa/Dragable---Touchable-Slider?style=social" alt="GitHub Repo Stars"/>
 </div>
 
-### 🎯 Core Focus 
+## 🎯 Core Focus 
 
 My expertise lies in building and maintaining high-performance web applications. I am passionate about:
 
@@ -28,26 +28,21 @@ My expertise lies in building and maintaining high-performance web applications.
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 
-### 💻 Tech Stack and Tools 🛠️
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+## 💻 Tech Stack and Tools 🛠️
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 **My professional toolbox is categorized below, demonstrating comprehensive full-stack capability:**
-
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,figma,nodejs,express,mongodb,postgresql,powershell,postman,docker,git,github,bash,npm,vscode,jquery,prisma,nextjs&perline=12" />
   </a>
 </p>
-
 <br>
 
 ## 📂 Featured Projects 📌
 
 Showcase your impact with these examples—**replace them with your actual projects, live demo links, and short impact statements.**
-
 <br>
-
 <details>
   <summary><strong>1. Project Alpha — Inventory Management</strong></summary>
   <br>
@@ -79,14 +74,34 @@ Showcase your impact with these examples—**replace them with your actual proje
   </ul>
 </details>
 
+## 📜 Certifications 📜
 
+<details>
+  <summary><strong>1. IBM Full Stack Software Developer Professional Certificate</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Issued by:</strong> IBM</li>
+    <li><strong>Date:</strong> October 20, 2025</li>
+    <li><strong>Verify here:</strong> <a href="https://www.credly.com/badges/e8114ab0-b3c8-49f1-9fc0-0d45fc79b7de/public_url">View Credential</a></li>
+  </ul>
+</details>
+<details>
+  <summary><strong>2. The Complete Full-Stack Web Development Bootcamp (In Progress)</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Platform:</strong> Udemy</li>
+    <li><strong>Status:</strong> In Progress</li>
+    <li><strong>Course Link:</strong> <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">View Course</a></li>
+  </ul>
+</details>
 
-### 🕒 Recent Coding Activity⚡
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+## 🕒 Recent Coding Activity⚡
 
 **Showing my commitment and current language usage over the last month.**
 <div align="center">
-  <img valign="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahamarmusa&layout=default&hide_border=false&theme=transparent&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="WakaTime coding activity" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img valign="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahamarmusa&layout=default&hide_border=false&theme=transparent&langs_count=7&title_color=08BD80&icon_color=08BD80" alt="WakaTime coding activity" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamarmusa&theme=transparent&hide_border=false&layout=donut-vertical&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="Top Languages"/>
 </div>
 <br>
@@ -108,10 +123,9 @@ Showcase your impact with these examples—**replace them with your actual proje
   </picture>
 </div>
 <br>
-<h3>
+<h2>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGphdjY4YXQ3bHF4NnFsb240bjY4dm80cWQ1NDFrczAybjIxazVtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align: middle; margin-right: 10px;">
-&nbsp; GitHub Activity & Performance 👌</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+&nbsp; GitHub Activity & Performance 👌</h2>
 <table>
   <tr>
     <td valign="top">
@@ -125,55 +139,18 @@ Showcase your impact with these examples—**replace them with your actual proje
 <br>
 
 <table>
-  <tr>
-    <td valign="top" style="width: 50%;">
-      <h3>🏆 Top Contributed Repos ⭐</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🏆 Top Contributed Repos ⭐</h3>
       <div align="left">
-        <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=default&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos">
-      </div>
-    </td>  
-    <td valign="top" style="width: 50%; ">      
-            <h3>🧩 Useful Resources 🧩</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-          <details>
-            <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🧠 Learning Platforms</summary>
-           <ul style="font-size: 14px;">
-              <li><a href="https://www.udemy.com/" target="_blank">Udemy</a></li>
-              <li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
-              <li><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></li>
-            </ul>
-          </details>
-        </div>
-  <details>
-    <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🧠 Learning Platforms</summary>
-           <ul style="font-size: 14px;">
-              <li><a href="https://www.udemy.com/" target="_blank">Udemy</a></li>
-              <li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
-              <li><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></li>
-            </ul>
-          </details>
-          <details>
-            <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🧠 Learning Platforms</summary>
-            <ul style="font-size: 14px;">
-              <li><a href="https://www.udemy.com/" target="_blank">Udemy</a></li>
-              <li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
-              <li><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></li>
-            </ul>
-          </details>
-        </div>
-          <details>
-            <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🧠 Learning Platforms</summary>
-           <ul style="font-size: 14px;">
-              <li><a href="https://www.udemy.com/" target="_blank">Udemy</a></li>
-              <li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
-              <li><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></li>
-            </ul>
-          </details>
-        </div>   
-       </div>
-    </td>
-  </tr>
+        <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=6&theme=default&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos">
+      </div>
+    </td> 
+    <td valign="top" width="50%">
+       <h3>🏆 GitHub Trophies 🏆</h3>
+       <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=default&title_color=08BD80&row=1&column=6&margin-w=5&margin-h=5&v=1" alt="GitHub Trophies"/>
+    </td>
+  </tr>
 </table>
 
 <h3> 🌐 Connect With Me ⁙</h3>
