@@ -125,71 +125,63 @@ Showcase your impact with these examples—**replace them with your actual proje
 <br>
 
 <table>
-  <tr>
-    <td valign="top" style="width: 40%;">
+  <tr>
+    <td valign="top" style="width: 50%;">
+      <h3>🏆 Top Contributed Repos ⭐</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
       <div align="left">
-        <h3>🏆 Top Contributed Repos ⭐</h3>
-        <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=6&theme=default&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos">
-      </div>
-    </td>  
-    <td valign="top" style="width: 60%; padding-left: 40px;">
-      <div align="left">
-        <h3>🔗 Useful Resources</h3>  
-        <details>
-          <summary>🚀 <b>Web Development and other resources needed.</b></summary>
-          <ul>
-            <li><a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">MDN Web Docs</a></li>
-            <li><a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
-            <li><a href="https://css-tricks.com/" target="_blank">CSS-Tricks</a></li>
-            <li><a href="https://javascript.info/" target="_blank">JavaScript.info</a></li>
-          </ul>
-        </details>
-        <details>
-          <summary>🧠 <b>Learning Platforms</b></summary>
-          <ul>
-            <li><a href="https://www.udemy.com/" target="_blank">Udemy</a></li>
-            <li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
-            <li><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></li>
-          </ul>
-        </details>
-        <details>
-          <summary>🛠️ <b>Developer Tools</b></summary>
-          <ul>
-            <li><a href="https://code.visualstudio.com/" target="_blank">VS Code</a></li>
-            <li><a href="https://git-scm.com/" target="_blank">Git</a></li>
-            <li><a href="https://vercel.com/" target="_blank">Vercel</a></li>
-            <li><a href="https://netlify.com/" target="_blank">Netlify</a></li>
-          </ul>
-        </details>
-        <details>
-          <summary>🎨 <b>Design Inspiration</b></summary>
-          <ul>
-            <li><a href="https://dribbble.com/" target="_blank">Dribbble</a></li>
-            <li><a href="https://www.behance.net/" target="_blank">Behance</a></li>
-            <li><a href="https://uimovement.com/" target="_blank">UI Movement</a></li>
-          </ul>
-        </details>
-        <details>
-          <summary>📚 <b>Documentation & References</b></summary>
-          <ul>
-            <li><a href="https://devdocs.io/" target="_blank">DevDocs</a></li>
-            <li><a href="https://docs.github.com/" target="_blank">GitHub Docs</a></li>
-            <li><a href="https://www.w3.org/TR/html52/" target="_blank">W3C HTML Specs</a></li>
-            <li><a href="https://api.github.com/" target="_blank">GitHub API</a></li>
-          </ul>
-        </details>
-        <details>
-          <summary>🧩 <b>Frontend Frameworks</b></summary>
-          <ul>
-            <li><a href="https://react.dev/" target="_blank">React</a></li>
-            <li><a href="https://nextjs.org/" target="_blank">Next.js</a></li>
-            <li><a href="https://vuejs.org/" target="_blank">Vue.js</a></li>
-            <li><a href="https://svelte.dev/" target="_blank">Svelte</a></li>
-          </ul>
-        </details>
-      </div>
-    </td>
-  </tr>
+        <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=default&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos">
+      </div>
+    </td>  
+    <td valign="top" style="width: 50%; ">      
+            <h3>🧩 Useful Resources 🧩</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+      <!-- <div align="left" style="border: 1px solid #d0d7de; border-radius: 6px;"> -->
+ <!-- <div style="border-bottom: 1px solid #d0d7de;"> -->
+          <details>
+            <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🚀 Web Development and other resources needed.</summary>
+            <ul style="font-size: 14px;">
+              <li><a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">MDN Web Docs</a></li>
+              <li><a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
+              <li><a href="https://css-tricks.com/" target="_blank">CSS-Tricks</a></li>
+              <li><a href="https://javascript.info/" target="_blank">JavaScript.info</a></li>
+            </ul>
+          </details>
+        </div>
+        <!-- <div style="border-bottom: 1px solid #d0d7de;"> -->
+          <details>
+            <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🧠 Learning Platforms</summary>
+            <ul style="font-size: 14px;">
+              <li><a href="https://www.udemy.com/" target="_blank">Udemy</a></li>
+              <li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
+              <li><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></li>
+            </ul>
+          </details>
+        </div>
+        <!-- <div style="border-bottom: 1px solid #d0d7de;"> -->
+          <details>
+            <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🚀 Web Development and other resources needed.</summary>
+            <ul style="font-size: 14px;">
+              <li><a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">MDN Web Docs</a></li>
+              <li><a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li>
+              <li><a href="https://css-tricks.com/" target="_blank">CSS-Tricks</a></li>
+              <li><a href="https://javascript.info/" target="_blank">JavaScript.info</a></li>
+            </ul>
+          </details>
+        </div>
+        <!-- <div style="border-bottom: 1px solid #d0d7de;"> -->
+          <details>
+            <summary style="cursor: pointer; font-weight: 400; font-size: 16px;">🧠 Learning Platforms</summary>
+           <ul style="font-size: 14px;">
+              <li><a href="https://www.udemy.com/" target="_blank">Udemy</a></li>
+              <li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
+              <li><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></li>
+            </ul>
+          </details>
+        </div>   
+        </div>
+    </td>
+  </tr>
 </table>
 
 <h3> 🌐 Connect With Me ⁙</h3>
