@@ -138,7 +138,7 @@ Showcase your impact with these examples—**replace them with your actual proje
 <br>
 
 <div align="left">
-    <h3>Top Contributed Repos</h3>
+      <h2>🏆 Top Contributed Repos ⭐</h2>
     <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=transparent&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/>
 </div>
 
