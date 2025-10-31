@@ -10,8 +10,7 @@
 
 ## I specialize in building production-ready web applications with **React, Node.js, and PostgreSQL**, prioritizing high performance, scalable architecture, and comprehensive testing. 👇
 <div align="left">
-  <img src="https://img.shields.io/github/followers/abdullahamarmusa?style=social" alt="GitHub Followers"/>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=58A6FF&style=flat-square" alt="GitHub Profile Views"/>&nbsp;&nbsp; <img src="https://img.shields.io/github/stars/abdullahamarmusa/Dragable---Touchable-Slider?style=social" alt="GitHub Repo Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=58A6FF&style=flat-square" alt="GitHub Profile Views"/>&nbsp;&nbsp; 
 </div>
 <h2 style="border-bottom:0;">👨🏻‍💻 Core Focus 🎯</h2>
 
@@ -131,7 +130,7 @@ Showcase your impact with these examples—**replace them with your actual proje
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abdullahamarmusa?theme=default&show_icons=true&background=ffffff00&border=ffffff00&title=08BD80&icon=58A6FF&text=417E87&ring=58A6FF" alt="GitHub Stats"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </td>
     <td valign="top">
-      <img src="https://streak-stats.demolab.com/?user=abdullahamarmusa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff5a00&theme=default&ring=FFA500&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=08BD80&sideLabels=417E87&title_color=08BD80&dates=58A6FF" alt="GitHub Streak" height="170px"/>
+      <img src="https://git-hub-streak-stats.vercel.app/?user=abdullahamarmusa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff5a00&theme=default&ring=FFA500&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=08BD80&sideLabels=417E87&dates=58A6FF" alt="GitHub Streak" height="170px"/>
     </td>
   </tr>
 </table>
