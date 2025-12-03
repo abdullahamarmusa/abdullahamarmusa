@@ -97,7 +97,10 @@ Showcase your impact with these examples—**replace them with your actual proje
 **Showing my commitment and current language usage over the last month.**
 <div align="center">
   ...
-  <img valign="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahamarmusa&range=all_time&layout=default&hide_border=false&theme=transparent&langs_count=7&title_color=08BD80&icon_color=08BD80" alt="WakaTime coding activity" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!--START_SECTION:waka-->
+  
+<!--END_SECTION:waka-->
+  />&nbsp;&nbsp;&nbsp;&nbsp;
   <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamarmusa&theme=transparent&hide_border=false&layout=donut-vertical&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="Top Languages"/>
 </div>
 <br>
@@ -136,9 +139,12 @@ Showcase your impact with these examples—**replace them with your actual proje
   </tr>
 </table>
 <br>
-
+<td valign="top" width="50%">
+       <h2>🏆 GitHub Trophies 🏆</h2>
+       <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=flat&title_color=08BD80&row=1&column=8&margin-w=5&margin-h=5&v=1" alt="GitHub Trophies"/>
+    </td>
 <div align="left">
-      <h2>🏆 Top Contributed Repos ⭐</h2>
+      <h2>✨ Top Contributed Repos ⭐</h2>
     <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=transparent&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/>
 </div>
 
@@ -150,12 +156,13 @@ Showcase your impact with these examples—**replace them with your actual proje
         <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=default&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos">
       </div>
     </td> 
-    <td valign="top" width="50%">
-       <h3>🏆 GitHub Trophies 🏆</h3>
-       <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=default&title_color=08BD80&row=1&column=6&margin-w=5&margin-h=5&v=1" alt="GitHub Trophies"/>
-    </td>
+    
   </tr>
 </table> -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=100&section=footer" width="100%" />
+  
 
 <h3> 🌐 Connect With Me 🤝</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
