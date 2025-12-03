@@ -96,7 +96,8 @@ Showcase your impact with these examples—**replace them with your actual proje
 
 **Showing my commitment and current language usage over the last month.**
 <div align="center">
-  <img valign="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahamarmusa&layout=default&hide_border=false&theme=transparent&langs_count=7&title_color=08BD80&icon_color=08BD80" alt="WakaTime coding activity" />&nbsp;&nbsp;&nbsp;&nbsp;
+  ...
+  <img valign="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahamarmusa&range=all_time&layout=default&hide_border=false&theme=transparent&langs_count=7&title_color=08BD80&icon_color=08BD80" alt="WakaTime coding activity" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamarmusa&theme=transparent&hide_border=false&layout=donut-vertical&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="Top Languages"/>
 </div>
 <br>
