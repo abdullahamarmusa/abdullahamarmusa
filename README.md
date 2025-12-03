@@ -102,7 +102,7 @@ Showcase your impact with these examples—**replace them with your actual proje
     <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
   </a>
 </div>
-  />&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamarmusa&theme=transparent&hide_border=false&layout=donut-vertical&langs_count=6&title_color=08BD80&icon_color=08BD80" alt="Top Languages"/>
 </div>
 <br>
