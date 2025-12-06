@@ -9,8 +9,8 @@
   <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="120" style="border-radius:50%;"/>
   <h1>Hi, I'm <span style="color:#2A9D8F;">Abdullah Amar Musa</span> 👋</h1>
 </div>
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullahamarmusa)](https://github.com/abdullahamarmusa/github-readme-stats)
 <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="92" height="92" />
+
 <!-- ====================== ABOUT ME ====================== -->
 
 ## I specialize in building production-ready web applications with **React, Node.js, and PostgreSQL**, prioritizing high performance, scalable architecture, and comprehensive testing. 👇
@@ -76,6 +76,7 @@ Showcase your impact with these examples—**replace them with your actual proje
   </ul>
 </details>
 <!-- ====================== CERTIFICATIONS ====================== -->
+
 ## 🎓 Certifications 📜
 
 <details>
@@ -116,12 +117,11 @@ Showcase your impact with these examples—**replace them with your actual proje
 <br>
 <!-- ====================== Recent Coding Activity ====================== -->
 <br>
-<!-- <h2 align="center" style="border-bottom:0;">📊 Language Analytics & Habits 📈</h2>
-<p align="center">A deep dive into my coding patterns across repositories and commits.</p> -->
+<h2 align="left" style="border-bottom:0;">📊 Language Analytics & Habits 📈</h2>
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language" height="200" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language" height="250" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language" height="250" />
 </div>
 <br>
 
@@ -151,33 +151,20 @@ Showcase your impact with these examples—**replace them with your actual proje
 
 </div>
 
-<td valign="top" width="50%">
+<td valign="top" wi>
        <h2>🏆 GitHub Trophies 🏆</h2>
        <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=flat&title_color=08BD80&row=1&column=8&margin-w=5&margin-h=5&v=1" alt="GitHub Trophies"/>
     </td>
 <div align="left">
       <h2>✨ Top Contributed Repos ⭐</h2>
     <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=transparent&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/>
-</div>
-
-<!-- <table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🏆 Top Contributed Repos ⭐</h3>
-      <div align="left">
-        <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=default&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6" alt="Productive Time" height="200" />
-      </div>
-    </td> 
-  </tr>
-</table> -->
+<br>
 
 <!-- ====================== FOOTER ====================== -->
 
 <h3> 🌐 Connect With Me 🤝</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2A9D8F&height=90&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
