@@ -118,9 +118,9 @@ Showcase your impact with these examples—**replace them with your actual proje
 <!-- ====================== Recent Coding Activity ====================== -->
 <br>
 <h2 align="left" style="border-bottom:0;">📊 Language Analytics & Habits 📈</h2>
-<div align="left">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language" height="250" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language" height="250" />
 </div>
 <br>
