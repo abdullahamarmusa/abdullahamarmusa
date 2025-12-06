@@ -119,11 +119,12 @@ Showcase your impact with these examples—**replace them with your actual proje
 <!-- <h2 align="center" style="border-bottom:0;">📊 Language Analytics & Habits 📈</h2>
 <p align="center">A deep dive into my coding patterns across repositories and commits.</p> -->
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6" alt="Productive Time" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language" height="200" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language" height="200" />
 </div>
 <br>
+
 ## 🕒 Recent Coding Activity⚡
 
 **Showing my commitment and current language usage over the last month.**
@@ -165,6 +166,7 @@ Showcase your impact with these examples—**replace them with your actual proje
       <h3>🏆 Top Contributed Repos ⭐</h3>
       <div align="left">
         <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=default&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6" alt="Productive Time" height="200" />
       </div>
     </td> 
   </tr>
