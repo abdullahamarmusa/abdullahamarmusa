@@ -1,33 +1,28 @@
 <!-- ====================== HEADER ====================== -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=3000&pause=1000&color=2A9D8F&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%2F+Next.js+Specialist;Building+Scalable+Web+Solutions" />
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="140" style="border-radius:50%; border: 3px solid #2A9D8F;" />
+    </td>
+    <td width="75%">
+      <h1>Hi, I'm <span style="color:#2A9D8F;">Abdullah Amar Musa</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>      
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2A9D8F&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;React+%2F+Next.js+Specialist" />
+      <br/>
+      <br/>
+      Currently specializing in <b>React, Node.js, and PostgreSQL</b> to build scalable web solutions.
+      <br/><br/>
+      <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=2A9D8F&style=flat-square" alt="GitHub Profile Views"/>
+    </td>
+  </tr>
+</table>
+
 <br/>
 
-<div align="center">
-  <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="120" style="border-radius:50%;"/>
-  <h1>Hi, I'm <span style="color:#2A9D8F;">Abdullah Amar Musa</span> 👋</h1>
-</div>
-<img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="92" height="92" />
-
-<!-- ====================== ABOUT ME ====================== -->
-
-## I specialize in building production-ready web applications with **React, Node.js, and PostgreSQL**, prioritizing high performance, scalable architecture, and comprehensive testing. 👇
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=58A6FF&style=flat-square" alt="GitHub Profile Views"/>&nbsp;&nbsp; 
-</div>
-<h2 style="border-bottom:0;">👨🏻‍💻 Core Focus 🎯</h2>
-
-### My expertise lies in building and maintaining high-performance web applications. I am passionate about:
-
-* **Frontend Development:** Crafting responsive, accessible, and dynamic user interfaces using **React, Next.js, and TypeScript**.
-* **Backend Architecture:** Designing scalable, RESTful APIs and microservices with **Node.js, Express, and PostgreSQL**.
-* **DevOps & Deployment:** Implementing containerization and CI/CD pipelines using **Docker, Kubernetes, and Git**.
-* **Code Quality:** Writing clean, testable, and maintainable code by following industry best practices.
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
-
+### 🎯 What I Do Best
+| **Frontend** | **Backend** | **DevOps** |
+| :--- | :--- | :--- |
+| Crafting responsive UIs with **React & Next.js** | Designing RESTful APIs with **Node & Express** | CI/CD Pipelines with **Docker & Git** |
 <!-- ====================== TECH STACK AND TOOLS ====================== -->
 
 ## 💻 Tech Stack and Tools 🛠️
