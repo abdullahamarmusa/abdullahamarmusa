@@ -118,7 +118,7 @@ Showcase your impact with these examples—**replace them with your actual proje
 <br>
 <h2 align="center" style="border-bottom:0;">📊 Language Analytics & Habits 📈</h2>
 <p align="center">A deep dive into my coding patterns across repositories and commits.</p>
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language" height="180" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language" height="180" />
