@@ -116,13 +116,11 @@ Showcase your impact with these examples—**replace them with your actual proje
 <br>
 <!-- ====================== Recent Coding Activity ====================== -->
 <br>
-<h2 align="center" style="border-bottom:0;">📊 Language Analytics & Habits 📈</h2>
-<p align="center">A deep dive into my coding patterns across repositories and commits.</p>
+<!-- <h2 align="center" style="border-bottom:0;">📊 Language Analytics & Habits 📈</h2>
+<p align="center">A deep dive into my coding patterns across repositories and commits.</p> -->
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language" height="170" />
-  &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language" height="170" />
-  &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6" alt="Productive Time" height="170" />
 </div>
 <br>
