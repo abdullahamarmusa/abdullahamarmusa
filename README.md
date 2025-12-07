@@ -117,7 +117,7 @@ Showcase your impact with these examples—**replace them with your actual proje
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abdullahamarmusa?theme=default&show_icons=true&background=ffffff00&border=ffffff00&title=08BD80&icon=58A6FF&text=417E87&ring=58A6FF" alt="GitHub Stats"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </td>
     <td valign="top">
-      <img src="https://git-hub-streak-stats.vercel.app/?user=abdullahamarmusa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff5a00&theme=default&ring=FFA500&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=08BD80&sideLabels=417E87&dates=58A6FF" alt="GitHub Streak" height="170px"/>
+      <img src="https://git-hub-streak-stats.vercel.app/?user=abdullahamarmusa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff5a00&theme=default&ring=FFA500&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=2A9D8F&sideLabels=417E87&dates=58A6FF" alt="GitHub Streak" height="170px"/>
     </td>
   </tr>
 </table>
@@ -159,7 +159,6 @@ Showcase your impact with these examples—**replace them with your actual proje
 <div align="left">
   <h2>🏆 GitHub Trophies 🏆</h2>
        <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=flat&title_color=08BD80&row=1&column=8&margin-w=5&margin-h=5&v=1" alt="GitHub Trophies"/>
-    </td>
 </div>
 <div align="left">
       <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width=25 height=25 > Top Contributed Repos ⭐</h2>
@@ -169,8 +168,10 @@ Showcase your impact with these examples—**replace them with your actual proje
 
 <!-- ====================== FOOTER ====================== -->
 
-<h2> <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png" width=27 height=27> Connect With Me </h2>
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<h2> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="30" height="30"> 
+  Connect With Me 
+</h2>
 <a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/Pb53NzpTKR" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2A9D8F&height=100&section=footer" width="100%"/>
