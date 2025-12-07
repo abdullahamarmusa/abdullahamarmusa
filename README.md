@@ -19,7 +19,7 @@
 
 <br/>
 
-### 🎯 What I Do Best
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 30px>&nbsp;&nbsp; What I Do Best
 | **Frontend** | **Backend** | **DevOps** |
 | :--- | :--- | :--- |
 | Crafting responsive UIs with **React & Next.js** | Designing RESTful APIs with **Node & Express** | CI/CD Pipelines with **Docker & Git** |
