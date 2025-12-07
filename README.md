@@ -26,15 +26,15 @@
     <thead>
       <tr>
         <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="40" height="40" alt="Frontend"><br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="35" height="35" alt="Frontend"><br>
           <span style="color: #7057ff;">Frontend</span>
         </th>
         <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40" alt="Backend"><br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35" height="35" alt="Backend"><br>
           <span style="color: #7057ff;">Backend</span>
         </th>
         <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" height="40" alt="DevOps"><br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35" alt="DevOps"><br>
           <span style="color: #7057ff;">DevOps</span>
         </th>
       </tr>
@@ -47,18 +47,15 @@
       </tr>
       <tr>
         <th align="center">
-          <br>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="40" height="40" alt="Database Arch"><br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="35" height="35" alt="Database Arch"><br>
           <span style="color: #7057ff;">Database Arch</span>
         </th>
         <th align="center">
-          <br>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paintbrush.png" width="40" height="40" alt="UI & Styling"><br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paintbrush.png" width="35" height="35" alt="UI & Styling"><br>
           <span style="color: #7057ff;">UI & Styling</span>
         </th>
         <th align="center">
-          <br>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" width="40" height="40" alt="Workflow"><br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" width="35" height="35" alt="Workflow"><br>
           <span style="color: #7057ff;">Workflow</span>
         </th>
       </tr>
@@ -220,7 +217,7 @@ Showcase your impact with these examples—**replace them with your actual proje
     Top Contributed Repos & Habits ⭐
   </h2>
   <div style="overflow: hidden;">
-    <img align="left" width="48%" src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=6&theme=default&border=false&combine_all_yearly_contributions=true&title_color=7057ff&text_color=417E87" alt="Top Contributed Repos" />
+    <img align="left" width="47%" src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=6&theme=default&border=false&combine_all_yearly_contributions=true&title_color=7057ff&text_color=417E87" alt="Top Contributed Repos" />
     <div style="width: "48%"; float: right;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6&hide_border=true" alt="Productive Time Graph" width="50%"/>
     </div>
@@ -233,6 +230,9 @@ Showcase your impact with these examples—**replace them with your actual proje
   <h3>Quote of the Day</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev Quote of the Day" />
 </div>
+    <div align=center> 
+      ________________________________________________________________________________________________________________________________________
+    </div>
 <h2> 
  🌐 Connect With Me : 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="27" height="27"> 
