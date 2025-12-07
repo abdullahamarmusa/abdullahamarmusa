@@ -1,29 +1,26 @@
-<!-- ====================== HEADER ====================== -->
-
 <table border="0" width="100%">
   <tr>
     <td width="25%" align="center">
-      <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="140" style="border-radius:50%; border: 3px solid #2A9D8F;" />
+      <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="140" style="border-radius:50%; border: 3px solid #7057ff;" />
     </td>
     <td width="75%" align="right">
-      <h1>Hi, I'm <span style="color:#2A9D8F;">Abdullah Amar Musa</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>      
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2A9D8F&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;React+%2F+Next.js+Specialist" />
+      <h1>Hi, I'm <span style="color:#7057ff;">Abdullah Amar Musa</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>      
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;React+%2F+Next.js+Specialist" />
       <br/>
       <br/>
       Currently specializing in <b>React, Node.js, and PostgreSQL</b> to build scalable web solutions. See you soon 🔜 
       <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=2A9D8F&style=flat-square" alt="GitHub Profile Views"/>
+      <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=7057ff&style=flat-square" alt="GitHub Profile Views"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 30px>&nbsp;&nbsp; What I Do Best
+## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width="30">&nbsp;&nbsp; What I Do Best
 | **Frontend** | **Backend** | **DevOps** |
 | :--- | :--- | :--- |
 | Crafting responsive UIs with **React & Next.js** | Designing RESTful APIs with **Node & Express** | CI/CD Pipelines with **Docker & Git** |
-<!-- ====================== TECH STACK AND TOOLS ====================== -->
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="27" height="27" />
@@ -74,7 +71,6 @@ Showcase your impact with these examples—**replace them with your actual proje
     <li><strong>Impact:</strong> Added Feature X and fixed a critical memory leak in a core middleware; added tests and improved CI stability.</li>
   </ul>
 </details>
-<!-- ====================== CERTIFICATIONS ====================== -->
 
 ## 🎓 Certifications & Badges 🪶
 
@@ -104,7 +100,7 @@ Showcase your impact with these examples—**replace them with your actual proje
 </div>
 
 <br>
-<!-- ====================== GitHub Activity & Performance ====================== -->
+
 <br>
 <h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic" width="27" height="27" />
@@ -112,15 +108,15 @@ Showcase your impact with these examples—**replace them with your actual proje
 <table>
   <tr>
     <td valign="top">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abdullahamarmusa?theme=default&show_icons=true&background=ffffff00&border=ffffff00&title=08BD80&icon=58A6FF&text=417E87&ring=58A6FF" alt="GitHub Stats"/>&nbsp;&nbsp;&nbsp;&nbsp;
-</td>
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abdullahamarmusa?theme=default&show_icons=true&background=ffffff00&border=ffffff00&title=7057ff&icon=38bdf8&text=7057ff&ring=7057ff" alt="GitHub Stats"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
     <td valign="top">
-      <img src="https://git-hub-streak-stats.vercel.app/?user=abdullahamarmusa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff5a00&theme=default&ring=FFA500&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=2A9D8F&sideLabels=417E87&dates=58A6FF" alt="GitHub Streak" height="170px"/>
+      <img src="https://git-hub-streak-stats.vercel.app/?user=abdullahamarmusa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=f472b6&theme=default&ring=7057ff&stroke=7057ff&currStreakNum=7057ff&sideNums=7057ff&currStreakLabel=7057ff&sideLabels=7057ff&dates=7057ff" alt="GitHub Streak" height="170px"/>
     </td>
   </tr>
 </table>
 <br>
-<!-- ====================== Recent Coding Activity ====================== -->
+
 <br>
 <h2 align="left" style="border-bottom:0;">📊 Language Analytics & Habits 📈</h2>
 <div align="center">
@@ -140,14 +136,14 @@ Showcase your impact with these examples—**replace them with your actual proje
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=58A6FF&area_color=58A6FF&title_color=08BD80&area=true&hide_border=true"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&bg_color=0D1117&color=FFFFFF&line=7057ff&point=38bdf8&area_color=7057ff&title_color=7057ff&area=true&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&bg_color=FFFFFF&color=417E87&line=58A6FF&point=58A6FF&area_color=58A6FF&title_color=08BD80&area=true&hide_border=true"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&bg_color=FFFFFF&color=7057ff&line=7057ff&point=38bdf8&area_color=7057ff&title_color=7057ff&area=true&hide_border=true"
     />
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&bg_color=FFFFFF&color=417E87&line=58A6FF&point=58A6FF&area_color=58A6FF&title_color=08BD80&area=true&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&bg_color=FFFFFF&color=7057ff&line=7057ff&point=38bdf8&area_color=7057ff&title_color=7057ff&area=true&hide_border=true"
       alt="Abdullah Amar Musa's Contribution Graph"
     />
   </picture>
@@ -156,15 +152,30 @@ Showcase your impact with these examples—**replace them with your actual proje
 
 <div align="left">
   <h2>🏆 GitHub Trophies 🏆</h2>
-       <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=flat&title_color=08BD80&row=1&column=8&margin-w=5&margin-h=5&v=1" alt="GitHub Trophies"/>
+       <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=flat&title_color=7057ff&row=1&column=8&margin-w=5&margin-h=5&v=1" alt="GitHub Trophies"/>
 </div>
-<div align="left">
-      <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width=25 height=25 > Top Contributed Repos ⭐</h2>
-    <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=transparent&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/>
+<div>
+  <h2 align="left"> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="25" height="25" /> 
+    Top Contributed Repos & Habits ⭐
+  </h2>
+
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=6&theme=default&border=false&combine_all_yearly_contributions=true&title_color=7057ff&text_color=417E87" alt="Top Contributed Repos" width="100%"/>
+      </td>    
+      <td width="50%" valign="top" align="center">
+        <br>
+        <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: "18"; font-weight: bold; color: #7057ff;">
+          Peak Coding Hours 🕒
+        </div>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6&hide_border=true" alt="Productive Time Graph" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 <br>
-
-<!-- ====================== FOOTER ====================== -->
 
 <h2> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="30" height="30"> 
@@ -172,5 +183,5 @@ Showcase your impact with these examples—**replace them with your actual proje
 </h2>
 <a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/Pb53NzpTKR" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2A9D8F&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7057ff&height=100&section=footer" width="100%"/>
 </div>
