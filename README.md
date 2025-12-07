@@ -1,7 +1,9 @@
+<!-- ====================== HEADER ====================== -->
+
 <table border="0" width="100%">
   <tr>
     <td width="25%" align="center">
-      <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="140" style="border-radius:50%; border: 3px solid #7057ff;" />
+      <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="140" style="border-radius:50; border: 3 solid #7057ff;" />
     </td>
     <td width="75%" align="right">
       <h1>Hi, I'm <span style="color:#7057ff;">Abdullah Amar Musa</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>      
@@ -16,11 +18,65 @@
 </table>
 
 <br/>
+<!-- ====================== WHAT I DO BEST ====================== -->
 
 ## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width="30">&nbsp;&nbsp; What I Do Best
 | **Frontend** | **Backend** | **DevOps** |
 | :--- | :--- | :--- |
 | Crafting responsive UIs with **React & Next.js** | Designing RESTful APIs with **Node & Express** | CI/CD Pipelines with **Docker & Git** |
+
+## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width="30">&nbsp;&nbsp; What I Do Best
+
+<div align="center">
+  <table border="0" width="80%">
+    <thead>
+      <tr>
+        <th align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="40" height="40" alt="Frontend"><br>
+          Frontend
+        </th>
+        <th align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40" alt="Backend"><br>
+          Backend
+        </th>
+        <th align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" height="40" alt="DevOps"><br>
+          DevOps
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">Crafting responsive UIs with <b>React & Next.js</b></td>
+        <td align="center">Designing RESTful APIs with <b>Node & Express</b></td>
+        <td align="center">CI/CD Pipelines with <b>Docker & Git</b></td>
+      </tr>
+      <tr>
+        <th align="center">
+          <br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="40" height="40" alt="Database Arch"><br>
+          Database Arch
+        </th>
+        <th align="center">
+          <br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paintbrush.png" width="40" height="40" alt="UI & Styling"><br>
+          UI & Styling
+        </th>
+        <th align="center">
+          <br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" width="40" height="40" alt="Workflow"><br>
+          Workflow
+        </th>
+      </tr>
+      <tr>
+        <td align="center">Managing schemas using <b>Prisma, Postgres & Mongo</b></td>
+        <td align="center">Design-to-Code workflow with <b>Figma & Tailwind CSS</b></td>
+        <td align="center">API Testing & Scripting with <b>Postman & Bash</b></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<!-- ====================== TECH STACK AND TOOLS ====================== -->
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="27" height="27" />
@@ -36,6 +92,8 @@
   </a>
 </p>
 <br>
+<!-- ====================== FEATURED PROJECTS ====================== -->
+
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Folder" width="27" height="27" /> Featured Projects 📌
 
@@ -71,6 +129,8 @@ Showcase your impact with these examples—**replace them with your actual proje
     <li><strong>Impact:</strong> Added Feature X and fixed a critical memory leak in a core middleware; added tests and improved CI stability.</li>
   </ul>
 </details>
+<!-- ====================== CERTIFICATIONS & BADGES ====================== -->
+
 
 ## 🎓 Certifications & Badges 🪶
 
@@ -92,16 +152,16 @@ Showcase your impact with these examples—**replace them with your actual proje
     <li><strong>Course Link:</strong> <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">View Course</a></li>
   </ul>
 </details>
-<div style='display:flex; align-items:center; gap: 20px; justify-content: center;' align='center'>
+<div align=center>
   <a href="https://www.credly.com/badges/e8114ab0-b3c8-49f1-9fc0-0d45fc79b7de/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/abdullahamarmusa/profile_pic_gif/refs/heads/main/ibm-full-stack-software-developer-professional-cert.1.png" width="200" height="200" alt="IBM Full Stack Software Developer" />
-  </a>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="200" height="200" alt="Postman Badge" />
+    <img src="https://raw.githubusercontent.com/abdullahamarmusa/profile_pic_gif/refs/heads/main/ibm-full-stack-software-developer-professional-cert.1.png" width="180" height="180" alt="IBM Full Stack Software Developer"/>
+  </a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="180" height="180" alt="Postman Badge" />
 </div>
 
 <br>
+<!-- ====================== GITHUB ACTIVITY AND PERFORMANCE ====================== -->
 
-<br>
 <h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic" width="27" height="27" />
 &nbsp; GitHub Activity & Performance </h2>
@@ -116,6 +176,7 @@ Showcase your impact with these examples—**replace them with your actual proje
   </tr>
 </table>
 <br>
+<!-- ====================== LANGUAGES ANALYTICS & HABITS ====================== -->
 
 <br>
 <h2 align="left" style="border-bottom:0;">📊 Language Analytics & Habits 📈</h2>
@@ -125,6 +186,8 @@ Showcase your impact with these examples—**replace them with your actual proje
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language" height="280" />
 </div>
 <br>
+
+<!-- ====================== RECENT CODING ACTIVITY ====================== -->
 
 ## 🕒 Recent Coding Activity⚡
 
@@ -149,31 +212,34 @@ Showcase your impact with these examples—**replace them with your actual proje
   </picture>
 
 </div>
+<!-- ====================== GITHUB TROPHIES ====================== -->
 
 <div align="left">
   <h2>🏆 GitHub Trophies 🏆</h2>
        <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=flat&title_color=7057ff&row=1&column=8&margin-w=5&margin-h=5&v=1" alt="GitHub Trophies"/>
 </div>
+<!-- ====================== TOP CONTRIBUTED REPOS & HABITS ====================== -->
+
 <div>
   <h2 align="left"> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="25" height="25" /> 
     Top Contributed Repos & Habits ⭐
-  </h2>  
+  </h2>
   <div style="overflow: hidden;">
-    <img align="left" width="48%" src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=default&border=false&combine_all_yearly_contributions=true&title_color=7057ff&text_color=417E87" alt="Top Contributed Repos" />
-    <div style="width: "48%"; float: right;" align="right">
-      <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 18; font-weight: bold; color: #7057ff; margin-bottom: 5;">
-        <b>Peak Coding Hours 🕒</b> 
-      </div>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6&hide_border=true" alt="Productive Time Graph" width="48%"/>
+    <img align="left" width="48%" src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=6&theme=default&border=false&combine_all_yearly_contributions=true&title_color=7057ff&text_color=417E87" alt="Top Contributed Repos" />
+    <div style="width: "48%"; float: right;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6&hide_border=true" alt="Productive Time Graph" width="48%"/>
+     ---
     </div>
   </div>
 </div>
 <br>
+<!-- ====================== FOOTER ====================== -->
 
 <h2> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="30" height="30"> 
-  Connect With Me 
+  
+ 🌐 Connect With Me : 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="27" height="27"> 
 </h2>
 <a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/Pb53NzpTKR" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
 <div align="center">
