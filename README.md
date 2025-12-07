@@ -5,14 +5,14 @@
     <td width="25%" align="center">
       <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="140" style="border-radius:50%; border: 3px solid #2A9D8F;" />
     </td>
-    <td width="75%">
+    <td width="75%" align="right">
       <h1>Hi, I'm <span style="color:#2A9D8F;">Abdullah Amar Musa</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>      
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2A9D8F&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;React+%2F+Next.js+Specialist" />
       <br/>
       <br/>
-      Currently specializing in <b>React, Node.js, and PostgreSQL</b> to build scalable web solutions.
+      Currently specializing in <b>React, Node.js, and PostgreSQL</b> to build scalable web solutions. See you soon 🔜 
       <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=2A9D8F&style=flat-square" alt="GitHub Profile Views"/>
+      <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=2A9D8F&style=flat" alt="GitHub Profile Views"/>
     </td>
   </tr>
 </table>
