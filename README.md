@@ -25,13 +25,17 @@
 | Crafting responsive UIs with **React & Next.js** | Designing RESTful APIs with **Node & Express** | CI/CD Pipelines with **Docker & Git** |
 <!-- ====================== TECH STACK AND TOOLS ====================== -->
 
-## 💻 Tech Stack and Tools 🛠️
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="27" height="27" />
+  Tech Stack and Tools 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="27" height="27" />
+</h2>
+
 **My professional toolbox is categorized below, demonstrating comprehensive full-stack capability:**
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,figma,nodejs,express,mongodb,postgresql,powershell,postman,docker,git,github,bash,npm,vscode,jquery,prisma,nextjs&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,figma,nodejs,express,mongodb,postgresql,powershell,postman,docker,git,github,bash,npm,vscode,jquery,prisma,nextjs&perline=12&theme=light" />
   </a>
 </p>
 <br>
