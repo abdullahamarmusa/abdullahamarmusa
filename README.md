@@ -6,7 +6,7 @@
       <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="140" style="border-radius:50%; border: 3px solid #2A9D8F;" />
     </td>
     <td width="75%" align="right">
-      <h1>Hi, I'm <span style="color:#2A9D8F;">Abdullah Amar Musa</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>      
+      <h1>Hi, I'm <span style="color:#2A9D8F;">Abdullah Amar Musa</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>      
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2A9D8F&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;React+%2F+Next.js+Specialist" />
       <br/>
       <br/>
@@ -36,7 +36,7 @@
 </p>
 <br>
 
-## 📂 Featured Projects 📌
+##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Folder" width="27" height="27" /> Featured Projects 📌
 
 Showcase your impact with these examples—**replace them with your actual projects, live demo links, and short impact statements.**
 <br>
@@ -105,8 +105,8 @@ Showcase your impact with these examples—**replace them with your actual proje
 <!-- ====================== GitHub Activity & Performance ====================== -->
 <br>
 <h2>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGphdjY4YXQ3bHF4NnFsb240bjY4dm80cWQ1NDFrczAybjIxazVtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align: middle; margin-right: 10px;">
-&nbsp; GitHub Activity & Performance 👌</h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic" width="27" height="27" />
+&nbsp; GitHub Activity & Performance </h2>
 <table>
   <tr>
     <td valign="top">
@@ -150,25 +150,23 @@ Showcase your impact with these examples—**replace them with your actual proje
     />
   </picture>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
 
-<div align="center">
+<div align="left">
   <h2>🏆 GitHub Trophies 🏆</h2>
        <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=flat&title_color=08BD80&row=1&column=8&margin-w=5&margin-h=5&v=1" alt="GitHub Trophies"/>
     </td>
 </div>
 <div align="left">
-      <h2>✨ Top Contributed Repos ⭐</h2>
+      <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width=25 height=25 > Top Contributed Repos ⭐</h2>
     <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=transparent&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/>
 </div>
 <br>
 
 <!-- ====================== FOOTER ====================== -->
 
-<h3> 🌐 Connect With Me 🤝</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png" width=27 height=27> Connect With Me </h2>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/Pb53NzpTKR" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2A9D8F&height=100&section=footer" width="100%"/>
