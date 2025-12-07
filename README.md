@@ -12,7 +12,7 @@
       <br/>
       Currently specializing in <b>React, Node.js, and PostgreSQL</b> to build scalable web solutions. See you soon 🔜 
       <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=2A9D8F&style=flat" alt="GitHub Profile Views"/>
+      <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=2A9D8F&style=flat-square" alt="GitHub Profile Views"/>
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@ Showcase your impact with these examples—**replace them with your actual proje
 </details>
 <!-- ====================== CERTIFICATIONS ====================== -->
 
-## 🎓 Certifications 📜
+## 🎓 Certifications & Badges 🪶
 
 <details>
   <summary><strong>1. IBM Full Stack Software Developer Professional Certificate</strong></summary>
@@ -92,6 +92,14 @@ Showcase your impact with these examples—**replace them with your actual proje
     <li><strong>Course Link:</strong> <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">View Course</a></li>
   </ul>
 </details>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+</div>
 
 <br>
 <!-- ====================== GitHub Activity & Performance ====================== -->
@@ -161,5 +169,5 @@ Showcase your impact with these examples—**replace them with your actual proje
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=08BD80&height=100&section=footer" width="100%"/>
 </div>
