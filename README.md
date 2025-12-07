@@ -3,15 +3,14 @@
 <table border="0" width="100%">
   <tr>
     <td width="25%" align="center">
-      <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="140" style="border-radius:50; border: 3 solid #7057ff;" />
+<img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="140" style="border-radius:50%; border: 3px solid #7057ff;" />  
     </td>
     <td width="75%" align="right">
       <h1>Hi, I'm <span style="color:#7057ff;">Abdullah Amar Musa</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>      
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;React+%2F+Next.js+Specialist" />
-      <br/>
-      <br/>
+     <br><br>
       Currently specializing in <b>React, Node.js, and PostgreSQL</b> to build scalable web solutions. See you soon 🔜 
-      <br/><br/>
+  <br><br>
       <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=7057ff&style=flat-square" alt="GitHub Profile Views"/>
     </td>
   </tr>
@@ -21,11 +20,6 @@
 <!-- ====================== WHAT I DO BEST ====================== -->
 
 ## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width="30">&nbsp;&nbsp; What I Do Best
-| **Frontend** | **Backend** | **DevOps** |
-| :--- | :--- | :--- |
-| Crafting responsive UIs with **React & Next.js** | Designing RESTful APIs with **Node & Express** | CI/CD Pipelines with **Docker & Git** |
-
-## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width="30">&nbsp;&nbsp; What I Do Best
 
 <div align="center">
   <table border="0" width="80%">
@@ -33,15 +27,15 @@
       <tr>
         <th align="center">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="40" height="40" alt="Frontend"><br>
-          Frontend
+          <span style="color: #7057ff;">Frontend</span>
         </th>
         <th align="center">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40" alt="Backend"><br>
-          Backend
+          <span style="color: #7057ff;">Backend</span>
         </th>
         <th align="center">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" height="40" alt="DevOps"><br>
-          DevOps
+          <span style="color: #7057ff;">DevOps</span>
         </th>
       </tr>
     </thead>
@@ -55,17 +49,17 @@
         <th align="center">
           <br>
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="40" height="40" alt="Database Arch"><br>
-          Database Arch
+          <span style="color: #7057ff;">Database Arch</span>
         </th>
         <th align="center">
           <br>
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paintbrush.png" width="40" height="40" alt="UI & Styling"><br>
-          UI & Styling
+          <span style="color: #7057ff;">UI & Styling</span>
         </th>
         <th align="center">
           <br>
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" width="40" height="40" alt="Workflow"><br>
-          Workflow
+          <span style="color: #7057ff;">Workflow</span>
         </th>
       </tr>
       <tr>
@@ -228,16 +222,18 @@ Showcase your impact with these examples—**replace them with your actual proje
   <div style="overflow: hidden;">
     <img align="left" width="48%" src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=6&theme=default&border=false&combine_all_yearly_contributions=true&title_color=7057ff&text_color=417E87" alt="Top Contributed Repos" />
     <div style="width: "48%"; float: right;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6&hide_border=true" alt="Productive Time Graph" width="48%"/>
-     ---
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6&hide_border=true" alt="Productive Time Graph" width="50%"/>
     </div>
   </div>
 </div>
 <br>
 <!-- ====================== FOOTER ====================== -->
-
+<br/>
+<div align="center">
+  <h3>Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev Quote of the Day" />
+</div>
 <h2> 
-  
  🌐 Connect With Me : 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="27" height="27"> 
 </h2>
