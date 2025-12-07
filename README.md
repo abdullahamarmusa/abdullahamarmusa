@@ -158,22 +158,16 @@ Showcase your impact with these examples—**replace them with your actual proje
   <h2 align="left"> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="25" height="25" /> 
     Top Contributed Repos & Habits ⭐
-  </h2>
-
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=6&theme=default&border=false&combine_all_yearly_contributions=true&title_color=7057ff&text_color=417E87" alt="Top Contributed Repos" width="100%"/>
-      </td>    
-      <td width="50%" valign="top" align="center">
-        <br>
-        <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: "18"; font-weight: bold; color: #7057ff;">
-          Peak Coding Hours 🕒
-        </div>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6&hide_border=true" alt="Productive Time Graph" width="100%"/>
-      </td>
-    </tr>
-  </table>
+  </h2>  
+  <div style="overflow: hidden;">
+    <img align="left" width="48%" src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=default&border=false&combine_all_yearly_contributions=true&title_color=7057ff&text_color=417E87" alt="Top Contributed Repos" />
+    <div style="width: "48%"; float: right;" align="right">
+      <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 18; font-weight: bold; color: #7057ff; margin-bottom: 5;">
+        <b>Peak Coding Hours 🕒</b> 
+      </div>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6&hide_border=true" alt="Productive Time Graph" width="48%"/>
+    </div>
+  </div>
 </div>
 <br>
 
