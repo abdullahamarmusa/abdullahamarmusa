@@ -96,13 +96,11 @@ Showcase your impact with these examples—**replace them with your actual proje
     <li><strong>Course Link:</strong> <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">View Course</a></li>
   </ul>
 </details>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<div style='display:flex; align-items:center; gap: 20px; justify-content: center;' align='center'>
+  <a href="https://www.credly.com/badges/e8114ab0-b3c8-49f1-9fc0-0d45fc79b7de/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/abdullahamarmusa/profile_pic_gif/refs/heads/main/ibm-full-stack-software-developer-professional-cert.1.png" width="200" height="200" alt="IBM Full Stack Software Developer" />
+  </a>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="200" height="200" alt="Postman Badge" />
 </div>
 
 <br>
