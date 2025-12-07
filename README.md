@@ -31,7 +31,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,figma,nodejs,express,mongodb,postgresql,powershell,postman,docker,git,github,bash,npm,vscode,jquery,prisma,nextjs&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,figma,nodejs,express,mongodb,postgresql,powershell,postman,docker,git,github,bash,npm,vscode,jquery,prisma,nextjs&perline=6" />
   </a>
 </p>
 <br>
@@ -154,20 +154,22 @@ Showcase your impact with these examples—**replace them with your actual proje
 
 </div>
 
-<td valign="top" wi>
-       <h2>🏆 GitHub Trophies 🏆</h2>
+<div align="center">
+  <h2>🏆 GitHub Trophies 🏆</h2>
        <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=flat&title_color=08BD80&row=1&column=8&margin-w=5&margin-h=5&v=1" alt="GitHub Trophies"/>
     </td>
+</div>
 <div align="left">
       <h2>✨ Top Contributed Repos ⭐</h2>
     <img src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=5&theme=transparent&border=true&combine_all_yearly_contributions=true&title_color=08BD80" alt="Top Contributed Repos"/>
+</div>
 <br>
 
 <!-- ====================== FOOTER ====================== -->
 
 <h3> 🌐 Connect With Me 🤝</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
+<a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/Pb53NzpTKR" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=08BD80&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#2A9D8F&height=100&section=footer" width="100%"/>
 </div>
