@@ -173,25 +173,16 @@ Showcase your impact with these examples—**replace them with your actual proje
 <h2 align="center" style="color: #7057ff; border-bottom: 1px solid #7057ff;">
   📊 Language Analytics & Habits 📈
 </h2>
- <br>
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language" height="220" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language" height="220" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br/>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&layout=compact&hide_border=true&title_color=7057ff&text_color=7057ff&icon_color=f472b6&bg_color=ffffff00&hide_progress=false" alt="Top Languages Graph" height="180" />
-    </td>
-  </tr>
-</table>
 <br>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language" height="220" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language" height="220" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&hide_border=false&title_color=7057ff&text_color=7057ff&icon_color=f472b6&bg_color=ffffff&hide_progress=false" alt="Top Languages Default" />
+</div>
 <!-- ====================== RECENT CODING ACTIVITY ====================== -->
 
 ## 🕒 Recent Coding Activity⚡
