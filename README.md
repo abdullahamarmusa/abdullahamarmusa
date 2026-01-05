@@ -162,7 +162,7 @@ Showcase your impact with these examples—**replace them with your actual proje
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abdullahamarmusa?theme=default&show_icons=true&background=ffffff00&border=ffffff00&title=7057ff&icon=38bdf8&text=7057ff&ring=7057ff" alt="GitHub Stats"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
-      <img src="https://git-hub-streak-stats.vercel.app/?user=abdullahamarmusa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=f472b6&theme=default&ring=7057ff&stroke=7057ff&currStreakNum=7057ff&sideNums=7057ff&currStreakLabel=7057ff&sideLabels=7057ff&dates=7057ff" alt="GitHub Streak" height="170px"/>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdullahamarmusa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=f472b6&theme=default&ring=7057ff&stroke=7057ff&currStreakNum=7057ff&sideNums=7057ff&currStreakLabel=7057ff&sideLabels=7057ff&dates=7057ff" alt="GitHub Streak" height="170px"/>
     </td>
   </tr>
 </table>
