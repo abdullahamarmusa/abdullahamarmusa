@@ -170,7 +170,7 @@ Showcase your impact with these examples—**replace them with your actual proje
 <!-- ====================== LANGUAGES ANALYTICS & HABITS ====================== -->
 
 <br>
-<h2 align="center" style="color: #7057ff; border-bottom: 1px solid #7057ff;">
+<h2 align="left" style="color: #7057ff; border-bottom: 1px solid #7057ff;">
   📊 Language Analytics & Habits 📈
 </h2>
 <br>
