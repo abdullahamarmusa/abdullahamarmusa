@@ -178,7 +178,7 @@ Showcase your impact with these examples—**replace them with your actual proje
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&hide_border=true&theme=github" height="220"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&hide_border=false&theme=github&layout=compact" width="450"/>
 </p>
 <br>
