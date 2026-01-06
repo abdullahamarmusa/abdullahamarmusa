@@ -11,7 +11,7 @@
      <br><br>
       Currently specializing in <b>React, Node.js, and PostgreSQL</b> to build scalable web solutions. See you soon 🔜 
   <br><br>
-      <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=7057ff&style=flat-square" alt="GitHub Profile Views"/>
+      <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=7057ff&style=flat" alt="GitHub Profile Views"/>
     </td>
   </tr>
 </table>
@@ -168,21 +168,20 @@ Showcase your impact with these examples—**replace them with your actual proje
 </table>
 <br>
 <!-- ====================== LANGUAGES ANALYTICS & HABITS ====================== -->
+<br>
 
-<br>
-<h2 align="left" style="color: #7057ff; border-bottom: 1px solid #7057ff;">
-  📊 Language Analytics & Habits 📈
-</h2>
-<br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language"/>
+## 📊 Language Analytics & Habits
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&hide_border=true&theme=github" height="220"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language"/>
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&hide_border=true&theme=github" height="220"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&hide_border=false&theme=github&layout=compact" width="450"/>
+</p>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&hide_border=false&title_color=7057ff&text_color=7057ff&icon_color=f472b6&bg_color=ffffff&hide_progress=false" alt="Top Languages Default" />
-</div>
 <!-- ====================== RECENT CODING ACTIVITY ====================== -->
 
 ## 🕒 Recent Coding Activity⚡
@@ -210,9 +209,10 @@ Showcase your impact with these examples—**replace them with your actual proje
 </div>
 <!-- ====================== GITHUB TROPHIES ====================== -->
 <div align="left">
-  <h2 style="color: #7057ff; border-bottom: 1px solid #7057ff;">🏆 GitHub Trophies 🏆</h2>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=flat&title_color=7057ff&row=1&column=8&margin-w=5&margin-h=5&v=999" alt="GitHub Trophies"/>
+  <h2>🏆 GitHub Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="abdullahamarmusa" />
+  </a>
 </div>
 <!-- ====================== TOP CONTRIBUTED REPOS & HABITS ====================== -->
 
