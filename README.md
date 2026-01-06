@@ -172,14 +172,14 @@ Showcase your impact with these examples—**replace them with your actual proje
 
 ## 📊 Language Analytics & Habits
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&hide_border=true&theme=github" height="220"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&hide_border=true&theme=github" width="420"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&hide_border=true&theme=github" height="220"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&hide_border=true&theme=github" width="420"/>
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&hide_border=false&theme=github&layout=compact" width="450"/>
+&nbsp;
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&hide_border=false&theme=github&layout=compact" width="500"/>
 </p>
 <br>
 <!-- ====================== RECENT CODING ACTIVITY ====================== -->
