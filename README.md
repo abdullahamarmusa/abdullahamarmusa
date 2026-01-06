@@ -173,11 +173,11 @@ Showcase your impact with these examples—**replace them with your actual proje
 ## 📊 Language Analytics & Habits
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&hide_border=true&theme=github" width="385"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&hide_border=true&theme=github" width="390"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&hide_border=true&theme=github" width="385"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&hide_border=true&theme=github" width="390"/>
 </p>
-&nbsp;
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&hide_border=false&theme=github&layout=compact" width="500"/>
 </p>
