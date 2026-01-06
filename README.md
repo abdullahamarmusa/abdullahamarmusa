@@ -175,9 +175,9 @@ Showcase your impact with these examples—**replace them with your actual proje
 </h2>
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language" height="220" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github" alt="Repos per Language"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language" height="220" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github" alt="Most Commited Language"/>
 </div>
 <br>
 <div align="center">
@@ -209,10 +209,10 @@ Showcase your impact with these examples—**replace them with your actual proje
 
 </div>
 <!-- ====================== GITHUB TROPHIES ====================== -->
-
 <div align="left">
-  <h2>🏆 GitHub Trophies 🏆</h2>
-       <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=flat&title_color=7057ff&row=1&column=8&margin-w=5&margin-h=5&v=1" alt="GitHub Trophies"/>
+  <h2 style="color: #7057ff; border-bottom: 1px solid #7057ff;">🏆 GitHub Trophies 🏆</h2>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=flat&title_color=7057ff&row=1&column=8&margin-w=5&margin-h=5&v=999" alt="GitHub Trophies"/>
 </div>
 <!-- ====================== TOP CONTRIBUTED REPOS & HABITS ====================== -->
 
