@@ -179,7 +179,7 @@ Showcase your impact with these examples—**replace them with your actual proje
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&hide_border=false&theme=github&layout=compact" width="500"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&hide_border=false&theme=github&layout=compact" width="480"/>
 </p>
 <br>
 <!-- ====================== RECENT CODING ACTIVITY ====================== -->
