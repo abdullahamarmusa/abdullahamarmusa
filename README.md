@@ -135,12 +135,12 @@ Showcase your impact with these examples—**replace them with your actual proje
   </ul>
 </details>
 <details>
-  <summary><strong>2. The Complete Full-Stack Web Development Bootcamp (In Progress)</strong></summary>
+  <summary><strong>2. The Complete Full-Stack Web Development Bootcamp</strong></summary>
   <br>
   <ul>
-    <li><strong>Platform:</strong> Udemy</li>
-    <li><strong>Status:</strong> In Progress</li>
-    <li><strong>Course Link:</strong> <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">View Course</a></li>
+    <li><strong>Issued by:</strong> Udemy</li>
+    <li><strong>Date:</strong> January 16, 2026</li>
+    <li><strong>Verify here:</strong> <a href="https://www.udemy.com/certificate/UC-bd786785-1a88-44b7-81d9-578970d1bace/">View Credential</a></li>
   </ul>
 </details>
 <div align=center>
