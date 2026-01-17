@@ -170,7 +170,7 @@ Showcase your impact with these examples—**replace them with your actual proje
 <!-- ====================== LANGUAGES ANALYTICS & HABITS ====================== -->
 <br>
 
-## 📊 Language Analytics & Habits
+## 📊 Language Analytics 
 
 <div align="center">
   <img
