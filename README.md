@@ -143,12 +143,12 @@ Showcase your impact with these examples—**replace them with your actual proje
     <li><strong>Verify here:</strong> <a href="https://www.udemy.com/certificate/UC-bd786785-1a88-44b7-81d9-578970d1bace/">View Credential</a></li>
   </ul>
 </details>
-<div align=center>
+<!-- <div align=center>
   <a href="https://www.credly.com/badges/e8114ab0-b3c8-49f1-9fc0-0d45fc79b7de/public_url" target="_blank">
     <img src="https://raw.githubusercontent.com/abdullahamarmusa/profile_pic_gif/refs/heads/main/ibm-full-stack-software-developer-professional-cert.1.png" width="180" height="180" alt="IBM Full Stack Software Developer"/>
   </a>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="180" height="180" alt="Postman Badge" />
-</div>
+</div> -->
 
 <br>
 <!-- ====================== GITHUB ACTIVITY AND PERFORMANCE ====================== -->
