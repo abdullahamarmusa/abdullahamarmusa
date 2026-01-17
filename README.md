@@ -1,4 +1,4 @@
-<!-- ====================== HEADER ====================== -->
+ <!-- ====================== HEADER ====================== -->
 
 <table border="0" width="100%">
   <tr>
@@ -172,16 +172,27 @@ Showcase your impact with these examples—**replace them with your actual proje
 
 ## 📊 Language Analytics & Habits
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&hide_border=true&theme=github" width="390"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&hide_border=true&theme=github" width="390"/>
-</p>
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahamarmusa&theme=github&hide_border=true"
+    width="400"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahamarmusa&theme=github&hide_border=true"
+    width="400"
+  />
+</div>
+<br/>
+<div align="center">
+    <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&layout=compact&theme=default&hide_border=false"
+    width="500"
+  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahamarmusa&hide_border=false&theme=github&layout=compact" width="475"/>
-</p>
-<br>
+
+<br/>
+
 <!-- ====================== RECENT CODING ACTIVITY ====================== -->
 
 ## 🕒 Recent Coding Activity⚡
@@ -202,42 +213,16 @@ Showcase your impact with these examples—**replace them with your actual proje
     />
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahamarmusa&bg_color=FFFFFF&color=7057ff&line=7057ff&point=38bdf8&area_color=7057ff&title_color=7057ff&area=true&hide_border=true"
-      alt="Abdullah Amar Musa's Contribution Graph"
+      alt="Abdullah Amar Musa's Contribution Graph."
     />
   </picture>
 
 </div>
-<!-- ====================== GITHUB TROPHIES ====================== -->
-<div align="left">
-  <h2>🏆 GitHub Trophies</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdullahamarmusa&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="abdullahamarmusa" />
-  </a>
-</div>
-<!-- ====================== TOP CONTRIBUTED REPOS & HABITS ====================== -->
 
-<div>
-  <h2 align="left"> 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="25" height="25" /> 
-    Top Contributed Repos & Habits ⭐
-  </h2>
-  <div style="overflow: hidden;">
-    <img align="left" width="47%" src="https://github-contributor-stats.vercel.app/api?username=abdullahamarmusa&limit=6&theme=default&border=false&combine_all_yearly_contributions=true&title_color=7057ff&text_color=417E87" alt="Top Contributed Repos" />
-    <div style="width: "48%"; float: right;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahamarmusa&theme=github&utcOffset=6&hide_border=true" alt="Productive Time Graph" width="50%"/>
-    </div>
-  </div>
-</div>
 <br>
 <!-- ====================== FOOTER ====================== -->
 <br/>
-<div align="center">
-  <h3>Quote of the Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev Quote of the Day" />
-</div>
-    <div align=center> 
-      ________________________________________________________________________________________________________________________________________
-    </div>
+   
 <h2> 
  🌐 Connect With Me : 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="27" height="27"> 
