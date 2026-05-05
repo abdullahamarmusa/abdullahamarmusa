@@ -9,60 +9,71 @@
       <h1>Hi, I'm <span style="color:#7057ff;">Abdullah Amar Musa</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>      
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;React+%2F+Next.js+Specialist" />
      <br><br>
-      Currently specializing in <b>React, Node.js, and PostgreSQL</b> to build scalable web solutions. See you soon 🔜 
+      I build scalable web applications that automate business workflows and reduce manual operations by up to 70%. 
   <br><br>
       <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=7057ff&style=flat" alt="GitHub Profile Views"/>
     </td>
   </tr>
 </table>
 
-<br/>
 <!-- ====================== WHAT I DO BEST ====================== -->
 
-## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width="30">&nbsp;&nbsp; What I Do Best
+## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width="30">&nbsp;&nbsp; What I Deliver
 
 <div align="center">
-  <table border="0" width="80%">
+  <table border="0" width="85%">
     <thead>
       <tr>
         <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="35" height="35" alt="Frontend"><br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="35"><br>
           <span style="color: #7057ff;">Frontend</span>
         </th>
         <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35" height="35" alt="Backend"><br>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35"><br>
           <span style="color: #7057ff;">Backend</span>
         </th>
         <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35" alt="DevOps"><br>
-          <span style="color: #7057ff;">DevOps</span>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35"><br>
+          <span style="color: #7057ff;">Deployment</span>
         </th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td align="center">Crafting responsive UIs with <b>React & Next.js</b></td>
-        <td align="center">Designing RESTful APIs with <b>Node & Express</b></td>
-        <td align="center">CI/CD Pipelines with <b>Docker & Git</b></td>
+        <td align="center">
+          Build fast, responsive interfaces that improve user experience and engagement using <b>React & Next.js</b>
+        </td>
+        <td align="center">
+          Develop scalable APIs and backend systems that handle real business logic using <b>Node.js & Express</b>
+        </td>
+        <td align="center">
+          Deploy reliable applications with smooth CI/CD workflows using <b>Docker & Git</b>
+        </td>
       </tr>
       <tr>
         <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="35" height="35" alt="Database Arch"><br>
-          <span style="color: #7057ff;">Database Arch</span>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="35"><br>
+          <span style="color: #7057ff;">Data Systems</span>
         </th>
         <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paintbrush.png" width="35" height="35" alt="UI & Styling"><br>
-          <span style="color: #7057ff;">UI & Styling</span>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paintbrush.png" width="35"><br>
+          <span style="color: #7057ff;">UI Implementation</span>
         </th>
         <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" width="35" height="35" alt="Workflow"><br>
-          <span style="color: #7057ff;">Workflow</span>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" width="35"><br>
+          <span style="color: #7057ff;">Automation</span>
         </th>
       </tr>
       <tr>
-        <td align="center">Managing schemas using <b>Prisma, Postgres & Mongo</b></td>
-        <td align="center">Design-to-Code workflow with <b>Figma & Tailwind CSS</b></td>
-        <td align="center">API Testing & Scripting with <b>Postman & Bash</b></td>
+        <td align="center">
+          Design efficient database structures and optimize performance with <b>PostgreSQL, Prisma & MongoDB</b>
+        </td>
+        <td align="center">
+          Convert designs into clean, production-ready UI using <b>Figma & Tailwind CSS</b>
+        </td>
+        <td align="center">
+          Build automation workflows and integrations that reduce manual work using <b>APIs, Postman & scripting</b>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -74,9 +85,11 @@
 **My professional toolbox is categorized below, demonstrating comprehensive full-stack capability:**
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,figma,nodejs,express,mongodb,postgresql,powershell,postman,docker,git,github,bash,npm,vscode,jquery,prisma,nextjs&perline=12&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&perline=4" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,docker,git,tailwind&perline=6" />
 </p>
 <br>
 <!-- ====================== FEATURED PROJECTS ====================== -->
