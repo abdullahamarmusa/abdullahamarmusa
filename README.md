@@ -169,9 +169,7 @@ I design and build scalable web systems that eliminate manual work, streamline o
 <a href="#"><strong>🔗 Live Demo</strong></a> • 
 <a href="#"><strong>📥 Repository</strong></a>
 </p>
-
 </td>
-<br><br>
 <td width="50%" valign="top" align="center">
 
 <h5>⚡ API Automation Tool</h5>
@@ -244,30 +242,10 @@ I can help you design and implement solutions that are reliable, efficient, and 
 
 ### 🤝 Connect With Me
 
-<a href="https://linkedin.com/in/abdullahamarmusa" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="38" />
-</a>
-&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank">
-  <img src="https://skillicons.dev/icons?i=stackoverflow" width="38" />
-</a>
-&nbsp;&nbsp;
-<a href="https://codepen.io/abdullahamarmusa" target="_blank">
-  <img src="https://skillicons.dev/icons?i=codepen" width="38" />
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.gg/Pb53NzpTKR" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" width="38" />
-</a>
-
-<br><br>
-
-<sub>
-Focused on building scalable systems, automation workflows, and real-world business solutions that create measurable impact.
-</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7057ff&height=100&section=footer" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="27" height="27"> 
+<br>
+</h2>
+<a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/Pb53NzpTKR" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7057ff&height=100&section=footer" width="100%"/>
 </div>
