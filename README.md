@@ -105,71 +105,111 @@ I build scalable web applications and automation systems that help businesses sa
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,docker,git,tailwind&perline=6" />
 </p>
 <br>
+
 <!-- ====================== FEATURED PROJECTS ====================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="25" /> Featured Projects Details
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="25" /> Featured Projects
 
 <table width="100%">
   <!-- Row 1 -->
   <tr>
-    <!-- Card 1 -->
+    <!-- Project 1 -->
     <td width="50%" valign="top" align="center">
-      <h4>🚀 Project One</h4>
-      <img 
-        src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
-        width="100%" 
-        style="max-width:320px;" 
-      />
-      <p><strong>Stack:</strong> React • Node • PostgreSQL</p>
-      <p><strong>Impact:</strong> Reduced manual work by <strong>70%</strong></p>
-      <p><a href="#">🔗 Demo</a> • <a href="#">💻 Repo</a></p>
+<h4>📦 Inventory Management System</h4>
+<img 
+  src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
+  width="100%" 
+  style="max-width:320px;" 
+/>
+<p>⚙️ <strong>Stack:</strong> React • Node.js • PostgreSQL</p>
+<p>🚧 <strong>Problem:</strong> Manual stock tracking causing delays</p>
+<p>💡 <strong>Solution:</strong> Real-time sync with role-based dashboards</p>
+<p>📈 <strong>Result:</strong> Reduced manual work by <strong>70%</strong></p>
+<p>
+<a href="#"><strong>🔗 Live Demo</strong></a> • 
+<a href="#"><strong>💻 Repo</strong></a>
+</p>
     </td>
-    <!-- Card 2 -->
+    <!-- Project 2 -->
     <td width="50%" valign="top" align="center">
-      <h4>🚀 Project Two</h4>
-      <img 
-        src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
-        width="100%" 
-        style="max-width:320px;" 
-      />
-      <p><strong>Stack:</strong> Next.js • Stripe • PostgreSQL</p>
-      <p><strong>Impact:</strong> Faster onboarding</p>
-      <p><a href="#">🔗 Demo</a> • <a href="#">💻 Repo</a></p>
+<h4>💳 SaaS Billing Dashboard</h4>
+<img 
+  src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
+  width="100%" 
+  style="max-width:320px;" 
+/>
+<p>⚙️ <strong>Stack:</strong> Next.js • Stripe • PostgreSQL</p>
+<p>🚧 <strong>Problem:</strong> Complex subscription & billing flow</p>
+<p>💡 <strong>Solution:</strong> Modular billing system with automation</p>
+<p>📈 <strong>Result:</strong> Faster onboarding & reduced friction</p>
+<p>
+<a href="#"><strong>🔗 Live Demo</strong></a> • 
+<a href="#"><strong>💻 Repo</strong></a>
+</p>
     </td>
   </tr>
-  <!-- Spacer -->
   <tr><td colspan="2"><br></td></tr>
   <!-- Row 2 -->
   <tr>
-    <!-- Big Card -->
+    <!-- Featured Project -->
     <td width="50%" valign="top" align="center">
-      <h4>🚀 Featured Project</h4>
-      <img 
-        src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
-        width="100%" 
-        style="max-width:360px;" 
-      />
-      <p><strong>Stack:</strong> Next.js • AI • Node.js</p>
-      <p><strong>Impact:</strong> Automated workflows by <strong>80%</strong></p>
-      <p><a href="#">🔗 Demo</a> • <a href="#">💻 Repo</a></p>
+<h4>🤖 AI Content Automation Tool</h4>
+<img 
+  src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
+  width="100%" 
+  style="max-width:360px;" 
+/>
+<p>⚙️ <strong>Stack:</strong> Next.js • OpenAI API • Node.js</p>
+<p>🚧 <strong>Problem:</strong> Slow and repetitive content production</p>
+<p>💡 <strong>Solution:</strong> AI-driven content generation workflows</p>
+<p>📈 <strong>Result:</strong> Increased production speed by <strong>80%</strong></p>
+<p>
+<a href="#"><strong>🔗 Live Demo</strong></a> • 
+<a href="#"><strong>💻 Repo</strong></a>
+</p>
     </td>
-    <!-- Right stacked -->
+    <!-- Right Side Mini Projects -->
     <td width="50%" valign="top" align="center">
-      <!-- Mini Card A -->
-      <div>
-        <h5>⚡ Mini Project A</h5>
-        <img 
-          src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
-          width="100%" 
-          style="max-width:220px;" 
-        />
-  <p><strong>Stack:</strong> Next.js • AI • Node.js</p>
-      <p><strong>Impact:</strong> Automated workflows by <strong>80%</strong></p>
-      <p><a href="#">🔗 Demo</a> • <a href="#">💻 Repo</a></p>      </div>
-      <br>
+
+<!-- Mini Project A -->
+<div>
+<h5>⚡ API Automation Tool</h5>
+<img 
+  src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
+  width="70%" 
+  style="max-width:200px;" 
+/>
+
+<p>⚙️ <strong>Stack:</strong> Node.js • Express • Postman</p>
+<p>📈 <strong>Impact:</strong> Automated repetitive API workflows</p>
+<p>
+<a href="#"><strong>Demo</strong></a> • 
+<a href="#"><strong>Repo</strong></a>
+</p>
+</div>
+
+<br>
+
+<!-- Mini Project B -->
+<div>
+
+<h5>⚡ Workflow Script System</h5>
+<img 
+  src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
+  width="70%" 
+  style="max-width:100;" 
+/>
+<p>⚙️ <strong>Stack:</strong> Bash • Node.js • Automation</p>
+<p>📈 <strong>Impact:</strong> Reduced manual repetitive tasks</p>
+<p>
+<a href="#"><strong>Demo</strong></a> • 
+<a href="#"><strong>Repo</strong></a>
+</p>
+</div>
+    </td>
   </tr>
 </table>
-
+<br>
 <br>
 <!-- ====================== CERTIFICATIONS & BADGES ====================== -->
 
@@ -231,7 +271,7 @@ I can help you design and develop a solution that is fast, reliable, and built f
 <a href="mailto:your@email.com"><strong>→ Contact Me Directly</strong></a> • 
 <a href="https://linkedin.com/in/abdullahamarmusa"><strong>→ Connect on LinkedIn</strong></a>
 
-<br><br>
+<br>
 
 <!-- ====================== FOOTER ====================== -->
 
@@ -254,15 +294,11 @@ I can help you design and develop a solution that is fast, reliable, and built f
 <a href="https://discord.gg/Pb53NzpTKR" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" width="38" />
 </a>
-
-<br><br>
-
+<br>
 <sub>
 Focused on building scalable systems, automation, and real business solutions.
 </sub>
-
-<br><br>
-
+<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7057ff&height=100&section=footer" width="100%"/>
 
 </div>
