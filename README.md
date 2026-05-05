@@ -10,7 +10,7 @@
 Hi, I'm <span style="color:#7057ff;">Abdullah Amar Musa</span> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
 </h1>      
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=600&lines=Full-Stack+Developer+for+Business+Systems;Automation+%26+SaaS+Solutions+Builder;React+%2F+Next.js+%2B+Node.js+Specialist" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=600&lines=Automation+%26+SaaS+Systems+Builder;Full-Stack+Developer+for+Business+Efficiency;React+%2F+Next.js+%2B+Node.js+Specialist" />
 
 <br><br>
 
@@ -224,9 +224,7 @@ If you're looking to:
 ✔ Launch or optimize a SaaS product  
 
 <br>
-
-I can help you design and implement solutions that are reliable, efficient, and built for real-world business use.
-
+I design and build systems that are fast, reliable, and built for real-world business use.
 <br>
 
 👉 **Get in touch:**
@@ -246,6 +244,10 @@ I can help you design and implement solutions that are reliable, efficient, and 
 <br>
 </h2>
 <a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/Pb53NzpTKR" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
+
+<p align=center>
+Building scalable systems, automation, and real-world SaaS products that drive business results.
+</p>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7057ff&height=100&section=footer" width="100%"/>
 </div>
