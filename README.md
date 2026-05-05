@@ -10,7 +10,7 @@
 Hi, I'm <span style="color:#7057ff;">Abdullah Amar Musa</span> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
 </h1>      
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=500&lines=Full-Stack+Developer+for+Business+Solutions;Automation+%26+SaaS+Systems+Builder;React+%2F+Next.js+%2B+Node.js+Specialist" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=600&lines=Full-Stack+Developer+for+Business+Solutions;Automation+%26+SaaS+Systems+Builder;React+%2F+Next.js+%2B+Node.js+Specialist" />
 
 <br><br>
 
@@ -152,7 +152,9 @@ I help businesses eliminate manual work, streamline operations, and build scalab
   </tr>
   <tr><td colspan="2"><br></td></tr>
   <!-- Row 2 -->
-  <tr>
+ 
+<!-- ✅ ADD SPACING HERE -->
+<tr><td colspan="2"><br></td></tr>
     <!-- Featured Project -->
     <td width="50%" valign="top" align="center">
 <h4>🤖 AI Content Automation Tool</h4>
@@ -195,7 +197,6 @@ I help businesses eliminate manual work, streamline operations, and build scalab
 
 <!-- Mini Project B -->
 <div>
-
 <h5>⚡ Workflow Script System</h5>
 <img 
   src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
