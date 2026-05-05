@@ -15,13 +15,15 @@ Hi, I'm <span style="color:#7057ff;">Abdullah Amar Musa</span>
 <br><br>
 
 <strong>
-I build scalable web applications and automation systems that help businesses save time, reduce manual work, and operate more efficiently.
-</strong>
+I help businesses eliminate manual work, streamline operations, and build scalable web systems that save time and reduce costs — using modern full-stack technologies.</strong>
 
 <br><br>
 
-📌 Focus: SaaS • Automation • Scalable Web Platforms  
-
+<p align="center">
+  <em>
+    I specialize in building real-world business systems — from internal tools to scalable SaaS platforms that improve efficiency and reduce operational overhead.
+  </em>
+</p>
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=7057ff&style=flat" />
@@ -122,9 +124,9 @@ I build scalable web applications and automation systems that help businesses sa
   style="max-width:320px;" 
 />
 <p>⚙️ <strong>Stack:</strong> React • Node.js • PostgreSQL</p>
-<p>🚧 <strong>Problem:</strong> Manual stock tracking causing delays</p>
-<p>💡 <strong>Solution:</strong> Real-time sync with role-based dashboards</p>
-<p>📈 <strong>Result:</strong> Reduced manual work by <strong>70%</strong></p>
+<strong>Problem:</strong> Manual inventory tracking caused frequent delays and human errors  
+<strong>Solution:</strong> Built a real-time dashboard with automated stock updates  
+<strong>Result:</strong> Reduced operational workload by 70% and improved decision speed
 <p>
 <a href="#"><strong>🔗 Live Demo</strong></a> • 
 <a href="#"><strong>💻 Repo</strong></a>
@@ -136,7 +138,7 @@ I build scalable web applications and automation systems that help businesses sa
 <img 
   src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
   width="100%" 
-  style="max-width:320px;" 
+  style="max-width:320;" 
 />
 <p>⚙️ <strong>Stack:</strong> Next.js • Stripe • PostgreSQL</p>
 <p>🚧 <strong>Problem:</strong> Complex subscription & billing flow</p>
@@ -157,7 +159,7 @@ I build scalable web applications and automation systems that help businesses sa
 <img 
   src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
   width="100%" 
-  style="max-width:360px;" 
+  style="max-width:360;" 
 />
 <p>⚙️ <strong>Stack:</strong> Next.js • OpenAI API • Node.js</p>
 <p>🚧 <strong>Problem:</strong> Slow and repetitive content production</p>
@@ -172,12 +174,13 @@ I build scalable web applications and automation systems that help businesses sa
     <td width="50%" valign="top" align="center">
 
 <!-- Mini Project A -->
+
 <div>
 <h5>⚡ API Automation Tool</h5>
 <img 
   src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
   width="70%" 
-  style="max-width:200px;" 
+  style="max-width:200;" 
 />
 
 <p>⚙️ <strong>Stack:</strong> Node.js • Express • Postman</p>
@@ -197,7 +200,7 @@ I build scalable web applications and automation systems that help businesses sa
 <img 
   src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
   width="70%" 
-  style="max-width:100;" 
+  style="max-width:200;" 
 />
 <p>⚙️ <strong>Stack:</strong> Bash • Node.js • Automation</p>
 <p>📈 <strong>Impact:</strong> Reduced manual repetitive tasks</p>
@@ -255,22 +258,20 @@ I build scalable web applications and automation systems that help businesses sa
 ---
 
 <!-- ====================== CTA ====================== -->
-
-## 🚀 Let’s Build Something Valuable
+## 📬 Let’s Build Something That Actually Moves Your Business Forward
 
 If you're looking to:
-- Build a scalable web application  
-- Automate manual workflows  
-- Launch or improve a SaaS product  
 
-I can help you design and develop a solution that is fast, reliable, and built for real-world use.
+✔ Automate repetitive workflows  
+✔ Reduce operational overhead  
+✔ Build a scalable web application  
+✔ Launch or improve a SaaS product  
 
-<br>
+I can help you design and build a solution that’s fast, reliable, and built for real-world use.
 
-📩 <strong>Ready to get started?</strong>  
-<a href="mailto:your@email.com"><strong>→ Contact Me Directly</strong></a> • 
-<a href="https://linkedin.com/in/abdullahamarmusa"><strong>→ Connect on LinkedIn</strong></a>
-
+👉 **Let’s talk:**
+- 📩 Email: abdullahamarmusa.dev@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/abdullahamarmusa/
 <br>
 
 <!-- ====================== FOOTER ====================== -->
