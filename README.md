@@ -56,42 +56,28 @@ I design and build scalable web systems that eliminate manual work, streamline o
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td align="center">
-          High-performance, responsive interfaces focused on usability and speed using <b>React & Next.js</b>
-        </td>
-        <td align="center">
-          Scalable backend systems designed for real-world business logic using <b>Node.js & Express</b>
-        </td>
-        <td align="center">
-          Reliable production deployments with streamlined CI/CD pipelines using <b>Docker & Git</b>
-        </td>
-      </tr>
-      <tr>
-        <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="35"><br>
-          <span style="color: #7057ff;">Data & Performance</span>
-        </th>
-        <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paintbrush.png" width="35"><br>
-          <span style="color: #7057ff;">UI Implementation</span>
-        </th>
-        <th align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Control%20Knobs.png" width="35"><br>
-          <span style="color: #7057ff;">Automation Systems</span>
-        </th>
-      </tr>
-      <tr>
-        <td align="center">
-          Optimized database design and performance tuning using <b>PostgreSQL, Prisma & MongoDB</b>
-        </td>
-        <td align="center">
-          Clean, production-ready UI built from design systems using <b>Figma & Tailwind CSS</b>
-        </td>
-        <td align="center">
-          Workflow automation and API integrations that reduce manual operations using <b>APIs, Postman & scripting</b>
-        </td>
-      </tr>
+   <tr>
+  <td align="center">
+    Build fast, user-focused interfaces that increase engagement and conversion using <b>React & Next.js</b>
+  </td>
+  <td align="center">
+    Develop scalable backend systems that automate workflows and handle real-world business logic using <b>Node.js & Express</b>
+  </td>
+  <td align="center">
+    Deliver production-ready applications with stable CI/CD pipelines and smooth deployment using <b>Docker & Git</b>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    Design optimized data systems that ensure performance, scalability, and reliability using <b>PostgreSQL, Prisma & MongoDB</b>
+  </td>
+  <td align="center">
+    Transform designs into clean, responsive, and maintainable UI with a strong focus on usability using <b>Figma & Tailwind CSS</b>
+  </td>
+  <td align="center">
+    Build automation systems that eliminate repetitive work and improve operational efficiency using <b>APIs, Postman & scripting</b>
+  </td>
+</tr>
     </tbody>
   </table>
 </div>
@@ -244,7 +230,7 @@ I design and build systems that are fast, reliable, and built for real-world bus
 <br>
 </h2>
 <a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/Pb53NzpTKR" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
-
+<br><br>
 <p align=center>
 Building scalable systems, automation, and real-world SaaS products that drive business results.
 </p>
