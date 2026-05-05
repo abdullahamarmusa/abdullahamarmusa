@@ -3,15 +3,28 @@
 <table border="0" width="100%">
   <tr>
     <td width="25%" align="center">
-<img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="140" style="border-radius:50%; border: 3px solid #7057ff;" />  
+      <img src="https://github.com/abdullahamarmusa/profile_pic_gif/raw/main/profile-pic%20(1).png" width="140" style="border-radius:50%; border: 3px solid #7057ff;" />  
     </td>
     <td width="75%" align="right">
-      <h1>Hi, I'm <span style="color:#7057ff;">Abdullah Amar Musa</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>      
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;React+%2F+Next.js+Specialist" />
-     <br><br>
-      I build scalable web applications that automate business workflows and reduce manual operations by up to 70%. 
-  <br><br>
-      <img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=7057ff&style=flat" alt="GitHub Profile Views"/>
+ <h1>
+Hi, I'm <span style="color:#7057ff;">Abdullah Amar Musa</span> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
+</h1>      
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38bdf8&vCenter=true&width=500&lines=Full-Stack+Developer+for+Business+Solutions;Automation+%26+SaaS+Systems+Builder;React+%2F+Next.js+%2B+Node.js+Specialist" />
+
+<br><br>
+
+<strong>
+I build scalable web applications and automation systems that help businesses save time, reduce manual work, and operate more efficiently.
+</strong>
+
+<br><br>
+
+📌 Focus: SaaS • Automation • Scalable Web Platforms  
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=abdullahamarmusa&color=7057ff&style=flat" />
     </td>
   </tr>
 </table>
@@ -41,7 +54,7 @@
     <tbody>
       <tr>
         <td align="center">
-          Build fast, responsive interfaces that improve user experience and engagement using <b>React & Next.js</b>
+          Build fast, responsive interfaces that improve user experience using <b>React & Next.js</b>
         </td>
         <td align="center">
           Develop scalable APIs and backend systems that handle real business logic using <b>Node.js & Express</b>
@@ -203,22 +216,53 @@
 
 <!-- ====================== CTA ====================== -->
 
-## 📬 Let’s Work Together
+## 🚀 Let’s Build Something Valuable
 
-If you need:
-- A scalable web application  
-- Automation to reduce manual work  
-- A custom SaaS product  
+If you're looking to:
+- Build a scalable web application  
+- Automate manual workflows  
+- Launch or improve a SaaS product  
 
-👉 I can help you build it.
+I can help you design and develop a solution that is fast, reliable, and built for real-world use.
 
 <br>
-<!-- ====================== FOOTER ====================== -->
-<br/>
 
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="30">&nbsp;&nbsp; Connect With Me
- 
-<a href="https://linkedin.com/in/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codepen.io/abdullahamarmusa" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" alt="CodePen"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/Pb53NzpTKR" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord"/></a>
+📩 <strong>Ready to get started?</strong>  
+<a href="mailto:your@email.com"><strong>→ Contact Me Directly</strong></a> • 
+<a href="https://linkedin.com/in/abdullahamarmusa"><strong>→ Connect on LinkedIn</strong></a>
+
+<br><br>
+
+<!-- ====================== FOOTER ====================== -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7057ff&height=100&section=footer" width="100%"/>
+
+### 🤝 Connect With Me
+
+<a href="https://linkedin.com/in/abdullahamarmusa" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="38" />
+</a>
+&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/21543417/abdullah-amar-musa" target="_blank">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" width="38" />
+</a>
+&nbsp;&nbsp;
+<a href="https://codepen.io/abdullahamarmusa" target="_blank">
+  <img src="https://skillicons.dev/icons?i=codepen" width="38" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.gg/Pb53NzpTKR" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" width="38" />
+</a>
+
+<br><br>
+
+<sub>
+Focused on building scalable systems, automation, and real business solutions.
+</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7057ff&height=100&section=footer" width="100%"/>
+
 </div>
