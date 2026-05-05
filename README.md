@@ -85,39 +85,110 @@
 <br>
 <!-- ====================== FEATURED PROJECTS ====================== -->
 
+<table width="100%">
+  <!-- Row 1 -->
+  <tr>
+    <!-- Card 1 -->
+    <td width="50%" valign="top" align="center">
+      <h4>🚀 Project One</h4>
+      <img 
+        src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
+        width="100%" 
+        style="max-width:320px;" 
+      />
+      <p><strong>Stack:</strong> React • Node • PostgreSQL</p>
+      <p><strong>Impact:</strong> Reduced manual work by <strong>70%</strong></p>
+      <p><a href="#">🔗 Demo</a> • <a href="#">💻 Repo</a></p>
+    </td>
+    <!-- Card 2 -->
+    <td width="50%" valign="top" align="center">
+      <h4>🚀 Project Two</h4>
+      <img 
+        src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
+        width="100%" 
+        style="max-width:320px;" 
+      />
+      <p><strong>Stack:</strong> Next.js • Stripe • PostgreSQL</p>
+      <p><strong>Impact:</strong> Faster onboarding</p>
+      <p><a href="#">🔗 Demo</a> • <a href="#">💻 Repo</a></p>
+    </td>
+  </tr>
+  <!-- Spacer -->
+  <tr><td colspan="2"><br></td></tr>
+  <!-- Row 2 -->
+  <tr>
+    <!-- Big Card -->
+    <td width="50%" valign="top" align="center">
+      <h4>🚀 Featured Project</h4>
+      <img 
+        src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
+        width="100%" 
+        style="max-width:360px;" 
+      />
+      <p><strong>Stack:</strong> Next.js • AI • Node.js</p>
+      <p><strong>Impact:</strong> Automated workflows by <strong>80%</strong></p>
+      <p><a href="#">🔗 Demo</a> • <a href="#">💻 Repo</a></p>
+    </td>
+    <!-- Right stacked -->
+    <td width="50%" valign="top" align="center">
+      <!-- Mini Card A -->
+      <div>
+        <h5>⚡ Mini Project A</h5>
+        <img 
+          src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
+          width="100%" 
+          style="max-width:220px;" 
+        />
+        <p><a href="#">Demo</a> • <a href="#">Repo</a></p>
+      </div>
+      <br>
+      <!-- Mini Card B -->
+      <div>
+        <h5>⚡ Mini Project B</h5>
+        <img 
+          src="https://cdn.pixabay.com/photo/2026/04/10/18/08/18-08-23-205_1280.jpg" 
+          width="100%" 
+          style="max-width:220px;" 
+        />
+        <p><a href="#">Demo</a> • <a href="#">Repo</a></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Folder" width="27" height="27" /> Featured Projects 📌
-
-Showcase your impact with these examples—**replace them with your actual projects, live demo links, and short impact statements.**
 <br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="25" /> Featured Projects Details
+
 <details>
-  <summary><strong>1. Project Alpha — Inventory Management</strong></summary>
+  <summary><strong>📦 Inventory Management System</strong></summary>
   <br>
   <ul>
-    <li><strong>Live Demo:</strong> <a href="https://alpha-demo.example.com">alpha-demo.example.com</a></li>
-    <li><strong>GitHub Repo:</strong> <a href="https://github.com/abdullahamarmusa/alpha">github.com/abdullahamarmusa/alpha</a></li>
+    <li><strong>Live Demo:</strong> https://alpha-demo.example.com</li>
+    <li><strong>GitHub Repo:</strong> https://github.com/abdullahamarmusa/alpha</li>
     <li><strong>Stack:</strong> React, Node.js, PostgreSQL, Docker</li>
-    <li><strong>Impact:</strong> Implemented real-time stock sync and role-based dashboards — <strong>reduced manual reconciliation by 70%.</strong></li>
+    <li><strong>Key Features:</strong> Real-time stock sync, role-based dashboards, automated alerts</li>
+    <li><strong>Impact:</strong> Reduced manual reconciliation workload by 70%</li>
   </ul>
 </details>
-
 <details>
-  <summary><strong>2. Project Beta — SaaS Billing Dashboard</strong></summary>
+  <summary><strong>💳 SaaS Billing Dashboard</strong></summary>
   <br>
   <ul>
-    <li><strong>Live Demo:</strong> <a href="https://beta.example.com">beta.example.com</a></li>
-    <li><strong>GitHub Repo:</strong> <a href="https://github.com/abdullahamarmusa/beta">github.com/abdullahamarmusa/beta</a></li>
+    <li><strong>Live Demo:</strong> https://beta.example.com</li>
+    <li><strong>GitHub Repo:</strong> https://github.com/abdullahamarmusa/beta</li>
     <li><strong>Stack:</strong> Next.js, Express, Stripe, PostgreSQL</li>
-    <li><strong>Impact:</strong> Built modular billing flow and subscription management features, leading to faster customer onboarding.</li>
+    <li><strong>Key Features:</strong> Subscription handling, billing automation, modular architecture</li>
+    <li><strong>Impact:</strong> Improved onboarding speed and reduced payment friction</li>
   </ul>
 </details>
-
 <details>
-  <summary><strong>3. Open-Source Contribution</strong></summary>
+  <summary><strong>🌍 Open Source Contribution</strong></summary>
   <br>
   <ul>
-    <li><strong>Pull Request:</strong> <a href="https://github.com/some-org/some-repo/pull/123">PR #123 on some-org/some-repo</a></li>
-    <li><strong>Impact:</strong> Added Feature X and fixed a critical memory leak in a core middleware; added tests and improved CI stability.</li>
+    <li><strong>Pull Request:</strong> https://github.com/some-org/some-repo/pull/123</li>
+    <li><strong>Contribution:</strong> Added Feature X + fixed memory leak in middleware</li>
+    <li><strong>Extras:</strong> Added tests and improved CI stability</li>
   </ul>
 </details>
 <!-- ====================== CERTIFICATIONS & BADGES ====================== -->
